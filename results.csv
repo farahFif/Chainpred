@@ -1,0 +1,2001 @@
+,QA,Original,Predicted
+0,what does [Grégoire Colin] appear in,starred_actors_inv,starred_actors_inv
+1,[Joe Thomas] appears in which movies,starred_actors_inv,starred_actors_inv
+2,what films did [Michelle Trachtenberg] star in,starred_actors_inv,starred_actors_inv
+3,what does [Helen Mack] star in,starred_actors_inv,starred_actors_inv
+4,what films did [Shahid Kapoor] act in,starred_actors_inv,starred_actors_inv
+5,[Brendan Gleeson] appears in which movies,starred_actors_inv,starred_actors_inv
+6,what films does [Paresh Rawal] appear in,starred_actors_inv,starred_actors_inv
+7,what does [Doug Collins] star in,starred_actors_inv,starred_actors_inv
+8,what films does [Brigitte Nielsen] appear in,starred_actors_inv,starred_actors_inv
+9,[Mona McKinnon] appears in which movies,starred_actors_inv,starred_actors_inv
+10,what films did [Christina Ricci] act in,starred_actors_inv,starred_actors_inv
+11,[Brian Backer] appears in which movies,starred_actors_inv,starred_actors_inv
+12,what films does [William Atherton] appear in,starred_actors_inv,starred_actors_inv
+13,what does [Jeremy Piven] act in,starred_actors_inv,starred_actors_inv
+14,what films did [Roger Bart] star in,starred_actors_inv,starred_actors_inv
+15,[Ruggero Raimondi] appears in which movies,starred_actors_inv,starred_actors_inv
+16,what films did [Robert Strauss] act in,starred_actors_inv,starred_actors_inv
+17,what films did [Aleksandr Gordon] act in,starred_actors_inv,starred_actors_inv
+18,what does [Stephen Furst] act in,starred_actors_inv,starred_actors_inv
+19,what does [Hiromi Nagasaku] star in,starred_actors_inv,starred_actors_inv
+20,what films does [Claude Akins] appear in,starred_actors_inv,starred_actors_inv
+21,what films did [Arjun Rampal] act in,starred_actors_inv,starred_actors_inv
+22,what movies was [Chris O'Donnell] an actor in,starred_actors_inv,starred_actors_inv
+23,what does [May Robson] act in,starred_actors_inv,starred_actors_inv
+24,what films did [Melvin Van Peebles] star in,starred_actors_inv,starred_actors_inv
+25,what does [Tannishtha Chatterjee] appear in,starred_actors_inv,starred_actors_inv
+26,what movies was [Michael Tully] an actor in,starred_actors_inv,starred_actors_inv
+27,what movies was [Dan Petronijevic] an actor in,starred_actors_inv,starred_actors_inv
+28,what films did [Phil Silvers] act in,starred_actors_inv,starred_actors_inv
+29,what films does [James B. Schwartz] appear in,starred_actors_inv,starred_actors_inv
+30,what films did [Piolo Pascual] star in,starred_actors_inv,starred_actors_inv
+31,what movies was [Eiji Funakoshi] an actor in,starred_actors_inv,starred_actors_inv
+32,what films does [Richard Roundtree] appear in,starred_actors_inv,starred_actors_inv
+33,what movies did [Darren McGavin] star in,starred_actors_inv,starred_actors_inv
+34,what films did [Stéphane Demers] act in,starred_actors_inv,starred_actors_inv
+35,what does [Ximena Ayala] appear in,starred_actors_inv,starred_actors_inv
+36,what does [Nell Cattrysse] star in,starred_actors_inv,starred_actors_inv
+37,what does [Sharon Gans] act in,starred_actors_inv,starred_actors_inv
+38,what does [Beatrice Lillie] act in,starred_actors_inv,starred_actors_inv
+39,what movies did [Caroline Aaron] star in,starred_actors_inv,starred_actors_inv
+40,what films does [Celia Montalván] appear in,starred_actors_inv,starred_actors_inv
+41,what movies did [Martín Adjemián] act in,starred_actors_inv,starred_actors_inv
+42,[Judi Dench] appears in which movies,starred_actors_inv,starred_actors_inv
+43,what does [Marlee Matlin] appear in,starred_actors_inv,starred_actors_inv
+44,what films did [Fabiola Quiroz] act in,starred_actors_inv,starred_actors_inv
+45,what films did [Carroll Ballard] act in,starred_actors_inv,starred_actors_inv
+46,what movies did [Nicole Grimaudo] act in,starred_actors_inv,starred_actors_inv
+47,what films did [Agnes Ayres] act in,starred_actors_inv,starred_actors_inv
+48,what films did [Audra Lindley] act in,starred_actors_inv,starred_actors_inv
+49,what movies did [Max Elliott Slade] act in,starred_actors_inv,starred_actors_inv
+50,what movies did [Knut Berger] star in,starred_actors_inv,starred_actors_inv
+51,what films did [Tamara Toumanova] star in,starred_actors_inv,starred_actors_inv
+52,what films does [Ralf Harolde] appear in,starred_actors_inv,starred_actors_inv
+53,what movies did [Sophie Rois] star in,starred_actors_inv,starred_actors_inv
+54,what does [Marguerite Churchill] appear in,starred_actors_inv,starred_actors_inv
+55,what films did [Odoardo Spadaro] act in,starred_actors_inv,starred_actors_inv
+56,what films does [Ben Mendelsohn] appear in,starred_actors_inv,starred_actors_inv
+57,what films did [Pat Derby] star in,starred_actors_inv,starred_actors_inv
+58,what movies did [Wesley Jonathan] star in,starred_actors_inv,starred_actors_inv
+59,what movies did [Paul Lynde] act in,starred_actors_inv,starred_actors_inv
+60,what does [JoBeth Williams] appear in,starred_actors_inv,starred_actors_inv
+61,what movies was [William Zappa] an actor in,starred_actors_inv,starred_actors_inv
+62,what films does [Susan Cabot] appear in,starred_actors_inv,starred_actors_inv
+63,what movies did [Eion Bailey] act in,starred_actors_inv,starred_actors_inv
+64,what films did [Leonid Mozgovoy] star in,starred_actors_inv,starred_actors_inv
+65,what movies did [Taurean Blacque] star in,starred_actors_inv,starred_actors_inv
+66,what does [Chips Rafferty] act in,starred_actors_inv,starred_actors_inv
+67,what films does [Grace Kelly] appear in,starred_actors_inv,starred_actors_inv
+68,what does [Stanley Baker] act in,starred_actors_inv,starred_actors_inv
+69,[Eric Cantona] appears in which movies,starred_actors_inv,starred_actors_inv
+70,what movies did [Mike White] star in,starred_actors_inv,starred_actors_inv
+71,what does [Ayesha Takia] star in,starred_actors_inv,starred_actors_inv
+72,what does [Susan George] act in,starred_actors_inv,starred_actors_inv
+73,what movies was [Scott Grimes] an actor in,starred_actors_inv,starred_actors_inv
+74,what does [Geraldine Smith] star in,starred_actors_inv,starred_actors_inv
+75,what films did [Patrick Malahide] star in,starred_actors_inv,starred_actors_inv
+76,what does [Joanna Newsom] star in,starred_actors_inv,starred_actors_inv
+77,what films did [Lemmy] act in,starred_actors_inv,starred_actors_inv
+78,what films did [Carrie Henn] act in,starred_actors_inv,starred_actors_inv
+79,what films does [Julian Sands] appear in,starred_actors_inv,starred_actors_inv
+80,what films did [Greg McLane] star in,starred_actors_inv,starred_actors_inv
+81,what movies did [Maury Chaykin] star in,starred_actors_inv,starred_actors_inv
+82,what movies was [Jade Yorker] an actor in,starred_actors_inv,starred_actors_inv
+83,what does [Chevy Chase] appear in,starred_actors_inv,starred_actors_inv
+84,what movies did [Margrét Vilhjálmsdóttir] star in,starred_actors_inv,starred_actors_inv
+85,what does [Andy Rodoreda] act in,starred_actors_inv,starred_actors_inv
+86,what films did [Jon Seda] star in,starred_actors_inv,starred_actors_inv
+87,what films does [Tom Hughes] appear in,starred_actors_inv,starred_actors_inv
+88,what movies was [Jason Alexander] an actor in,starred_actors_inv,starred_actors_inv
+89,what movies did [Tyler Labine] act in,starred_actors_inv,starred_actors_inv
+90,what movies was [Mitchell Ryan] an actor in,starred_actors_inv,starred_actors_inv
+91,what does [Haley Joel] act in,starred_actors_inv,starred_actors_inv
+92,what movies did [Jackie Earle Haley] star in,starred_actors_inv,starred_actors_inv
+93,what movies was [Heather Sears] an actor in,starred_actors_inv,starred_actors_inv
+94,what movies did [Annabelle Gurwitch] star in,starred_actors_inv,starred_actors_inv
+95,[Ryan Alosio] appears in which movies,starred_actors_inv,starred_actors_inv
+96,[Jack Palance] appears in which movies,starred_actors_inv,starred_actors_inv
+97,what films does [Baby Peggy] appear in,starred_actors_inv,starred_actors_inv
+98,what does [Mark Dacascos] act in,starred_actors_inv,starred_actors_inv
+99,what movies was [Roger Perry] an actor in,starred_actors_inv,starred_actors_inv
+100,what does [Olga Baclanova] star in,starred_actors_inv,starred_actors_inv
+101,what films does [Misa Shimizu] appear in,starred_actors_inv,starred_actors_inv
+102,[Gustav Fröhlich] appears in which movies,starred_actors_inv,starred_actors_inv
+103,what does [William Marshall] star in,starred_actors_inv,starred_actors_inv
+104,what films does [Kelly Clarkson] appear in,starred_actors_inv,starred_actors_inv
+105,what does [Philip Stone] star in,starred_actors_inv,starred_actors_inv
+106,what movies was [Marianne Faithfull] an actor in,starred_actors_inv,starred_actors_inv
+107,what films did [Plácido Domingo] act in,starred_actors_inv,starred_actors_inv
+108,what movies did [Marius Goring] star in,starred_actors_inv,starred_actors_inv
+109,what films did [Peggie Castle] act in,starred_actors_inv,starred_actors_inv
+110,what movies did [Jutta Hoffmann] star in,starred_actors_inv,starred_actors_inv
+111,what movies did [Noah Bean] star in,starred_actors_inv,starred_actors_inv
+112,what films does [Stephen Gevedon] appear in,starred_actors_inv,starred_actors_inv
+113,what films did [Robert Culp] star in,starred_actors_inv,starred_actors_inv
+114,what does [Anna Quayle] act in,starred_actors_inv,starred_actors_inv
+115,what movies did [Cher] act in,starred_actors_inv,starred_actors_inv
+116,what films did [Will Ferrell] act in,starred_actors_inv,starred_actors_inv
+117,what films did [Fernando Cayo] star in,starred_actors_inv,starred_actors_inv
+118,[Liz Renay] appears in which movies,starred_actors_inv,starred_actors_inv
+119,what movies did [Beatriz Batarda] act in,starred_actors_inv,starred_actors_inv
+120,[Sharni Vinson] appears in which movies,starred_actors_inv,starred_actors_inv
+121,[Mehdi Nebbou] appears in which movies,starred_actors_inv,starred_actors_inv
+122,what movies was [Jason O'Mara] an actor in,starred_actors_inv,starred_actors_inv
+123,what movies did [Astrid Meyerfeldt] star in,starred_actors_inv,starred_actors_inv
+124,what movies did [Ken Foree] act in,starred_actors_inv,starred_actors_inv
+125,what movies did [Irene Purcell] act in,starred_actors_inv,starred_actors_inv
+126,what movies was [Dalton Trumbo] an actor in,starred_actors_inv,starred_actors_inv
+127,what movies was [Rafael Alonso] an actor in,starred_actors_inv,starred_actors_inv
+128,what movies did [George Tiller] act in,starred_actors_inv,starred_actors_inv
+129,what movies was [Harry Hill] an actor in,starred_actors_inv,starred_actors_inv
+130,what films did [Duong Don] act in,starred_actors_inv,starred_actors_inv
+131,[Stephen Frears] appears in which movies,starred_actors_inv,starred_actors_inv
+132,what movies was [Kay Kyser] an actor in,starred_actors_inv,starred_actors_inv
+133,what does [Richard Rober] act in,starred_actors_inv,starred_actors_inv
+134,[Moe Howard] appears in which movies,starred_actors_inv,starred_actors_inv
+135,what movies did [Pamela Reed] star in,starred_actors_inv,starred_actors_inv
+136,what movies did [Anika Noni Rose] act in,starred_actors_inv,starred_actors_inv
+137,what does [Tony Martin] star in,starred_actors_inv,starred_actors_inv
+138,what movies did [John Call] act in,starred_actors_inv,starred_actors_inv
+139,what films did [Leigh McCormack] star in,starred_actors_inv,starred_actors_inv
+140,what does [Alice Brady] appear in,starred_actors_inv,starred_actors_inv
+141,what does [Patrick Breen] appear in,starred_actors_inv,starred_actors_inv
+142,what does [Leandro Firmino] act in,starred_actors_inv,starred_actors_inv
+143,what does [Clancy Brown] act in,starred_actors_inv,starred_actors_inv
+144,what does [Brendan Coyle] act in,starred_actors_inv,starred_actors_inv
+145,what films did [Debby Ryan] star in,starred_actors_inv,starred_actors_inv
+146,what films did [Laurel Holloman] act in,starred_actors_inv,starred_actors_inv
+147,what movies did [Frank Ramírez] star in,starred_actors_inv,starred_actors_inv
+148,what films does [Alison Routledge] appear in,starred_actors_inv,starred_actors_inv
+149,what movies did [Eddie Cantor] star in,starred_actors_inv,starred_actors_inv
+150,what movies did [Dorothy Dell] act in,starred_actors_inv,starred_actors_inv
+151,what does [Jason Behr] act in,starred_actors_inv,starred_actors_inv
+152,what does [Peter Bull] appear in,starred_actors_inv,starred_actors_inv
+153,what does [Ronald Zehrfeld] star in,starred_actors_inv,starred_actors_inv
+154,what films did [Kathryn Grayson] star in,starred_actors_inv,starred_actors_inv
+155,what does [Larenz Tate] act in,starred_actors_inv,starred_actors_inv
+156,what does [Candy Darling] star in,starred_actors_inv,starred_actors_inv
+157,what movies did [Robbi Morgan] star in,starred_actors_inv,starred_actors_inv
+158,what films did [George Harrison] star in,starred_actors_inv,starred_actors_inv
+159,what does [Edward Chapman] act in,starred_actors_inv,starred_actors_inv
+160,what films did [Tom Savini] star in,starred_actors_inv,starred_actors_inv
+161,what does [Pat O'Brien] appear in,starred_actors_inv,starred_actors_inv
+162,what does [Bob Dermer] appear in,starred_actors_inv,starred_actors_inv
+163,what movies did [Anna Paquin] star in,starred_actors_inv,starred_actors_inv
+164,what films did [Mia Sara] act in,starred_actors_inv,starred_actors_inv
+165,what does [Larry Fessenden] act in,starred_actors_inv,starred_actors_inv
+166,what films did [Terry Kinney] star in,starred_actors_inv,starred_actors_inv
+167,what movies did [Monte Hale] act in,starred_actors_inv,starred_actors_inv
+168,what movies did [Erland Josephson] act in,starred_actors_inv,starred_actors_inv
+169,what films did [Aksel Hennie] star in,starred_actors_inv,starred_actors_inv
+170,what does [Lorenzo Quinteros] star in,starred_actors_inv,starred_actors_inv
+171,what does [Jared Padalecki] appear in,starred_actors_inv,starred_actors_inv
+172,[Richard Armitage] appears in which movies,starred_actors_inv,starred_actors_inv
+173,what films did [Jennifer Lopez] act in,starred_actors_inv,starred_actors_inv
+174,[Alicia Rodríguez] appears in which movies,starred_actors_inv,starred_actors_inv
+175,what movies did [Frank Bonner] act in,starred_actors_inv,starred_actors_inv
+176,what does [Richard Boone] act in,starred_actors_inv,starred_actors_inv
+177,what films did [Tracy Pollan] act in,starred_actors_inv,starred_actors_inv
+178,what does [Carla Balenda] act in,starred_actors_inv,starred_actors_inv
+179,what films did [Carmen Duncan] act in,starred_actors_inv,starred_actors_inv
+180,what movies was [Gabrielle Anwar] an actor in,starred_actors_inv,starred_actors_inv
+181,what movies did [Dominic Purcell] star in,starred_actors_inv,starred_actors_inv
+182,what movies did [Anton Yelchin] star in,starred_actors_inv,starred_actors_inv
+183,what movies did [Jean Gabin] act in,starred_actors_inv,starred_actors_inv
+184,what films did [Lupe Ontiveros] act in,starred_actors_inv,starred_actors_inv
+185,what films does [Michael Hardt] appear in,starred_actors_inv,starred_actors_inv
+186,what does [Noah Hathaway] star in,starred_actors_inv,starred_actors_inv
+187,what does [Kaaren Verne] act in,starred_actors_inv,starred_actors_inv
+188,[Mila Parély] appears in which movies,starred_actors_inv,starred_actors_inv
+189,what movies was [Robert Redford] an actor in,starred_actors_inv,starred_actors_inv
+190,what movies did [Harry Morgan] star in,starred_actors_inv,starred_actors_inv
+191,what does [Anton Corbijn] star in,starred_actors_inv,starred_actors_inv
+192,what films did [Omri Katz] act in,starred_actors_inv,starred_actors_inv
+193,what movies did [Grégoire Aslan] act in,starred_actors_inv,starred_actors_inv
+194,what movies did [Scott Bakula] act in,starred_actors_inv,starred_actors_inv
+195,what movies did [Derek de Lint] star in,starred_actors_inv,starred_actors_inv
+196,what does [Reika Hashimoto] act in,starred_actors_inv,starred_actors_inv
+197,what movies did [Philip Bretherton] act in,starred_actors_inv,starred_actors_inv
+198,what does [Rooney Mara] act in,starred_actors_inv,starred_actors_inv
+199,what films did [Yaya DaCosta] act in,starred_actors_inv,starred_actors_inv
+200,what films does [Sally Fraser] appear in,starred_actors_inv,starred_actors_inv
+201,what does [Vince Colosimo] act in,starred_actors_inv,starred_actors_inv
+202,what films did [Rachel Ward] star in,starred_actors_inv,starred_actors_inv
+203,what does [Laurie Simmons] star in,starred_actors_inv,starred_actors_inv
+204,what movies did [Margaret Avery] star in,starred_actors_inv,starred_actors_inv
+205,what does [Brad Dourif] appear in,starred_actors_inv,starred_actors_inv
+206,what films did [Shawn Ku] act in,starred_actors_inv,starred_actors_inv
+207,what does [Draga Olteanu Matei] appear in,starred_actors_inv,starred_actors_inv
+208,what movies did [Jonas Chernick] star in,starred_actors_inv,starred_actors_inv
+209,what films does [Abhay Deol] appear in,starred_actors_inv,starred_actors_inv
+210,what movies did [Julie Davis] act in,starred_actors_inv,starred_actors_inv
+211,what films does [Michael Craig] appear in,starred_actors_inv,starred_actors_inv
+212,[John Derek] appears in which movies,starred_actors_inv,starred_actors_inv
+213,what does [Yoshihiro Nishimura] star in,starred_actors_inv,starred_actors_inv
+214,what movies was [Jessica Simpson] an actor in,starred_actors_inv,starred_actors_inv
+215,what does [Gwenaëlle Simon] act in,starred_actors_inv,starred_actors_inv
+216,what movies did [Trevor Moore] star in,starred_actors_inv,starred_actors_inv
+217,what films does [Antonio Cupo] appear in,starred_actors_inv,starred_actors_inv
+218,what does [Douglas Hodge] appear in,starred_actors_inv,starred_actors_inv
+219,what films did [Jerry Stiller] star in,starred_actors_inv,starred_actors_inv
+220,what movies was [Vince Edwards] an actor in,starred_actors_inv,starred_actors_inv
+221,what films does [Courtney Love] appear in,starred_actors_inv,starred_actors_inv
+222,what movies did [Dendrie Taylor] act in,starred_actors_inv,starred_actors_inv
+223,what movies did [Eric Brown] act in,starred_actors_inv,starred_actors_inv
+224,what films does [David Copperfield] appear in,starred_actors_inv,starred_actors_inv
+225,what films did [Eddie Marsan] act in,starred_actors_inv,starred_actors_inv
+226,what movies did [Bob Newhart] act in,starred_actors_inv,starred_actors_inv
+227,what does [Mary Stuart Masterson] appear in,starred_actors_inv,starred_actors_inv
+228,what films does [Jesse Birdsall] appear in,starred_actors_inv,starred_actors_inv
+229,what movies did [Ken Shapiro] act in,starred_actors_inv,starred_actors_inv
+230,what does [Stéphane Aubier] star in,starred_actors_inv,starred_actors_inv
+231,what movies did [Teresa Palmer] act in,starred_actors_inv,starred_actors_inv
+232,what movies did [Carmine Giovinazzo] star in,starred_actors_inv,starred_actors_inv
+233,[Stefania Rocca] appears in which movies,starred_actors_inv,starred_actors_inv
+234,what movies did [Justin Lo] act in,starred_actors_inv,starred_actors_inv
+235,what does [Cheryl Hines] star in,starred_actors_inv,starred_actors_inv
+236,what films did [Sally Kirkland] act in,starred_actors_inv,starred_actors_inv
+237,what does [Jonathan Andersson] star in,starred_actors_inv,starred_actors_inv
+238,what films does [Ken Kirzinger] appear in,starred_actors_inv,starred_actors_inv
+239,what does [Jenna Fischer] star in,starred_actors_inv,starred_actors_inv
+240,what films does [Sean Astin] appear in,starred_actors_inv,starred_actors_inv
+241,what movies did [James Shigeta] star in,starred_actors_inv,starred_actors_inv
+242,what does [Jane Greer] appear in,starred_actors_inv,starred_actors_inv
+243,what films does [Mady Christians] appear in,starred_actors_inv,starred_actors_inv
+244,what films did [Harrison Gilbertson] star in,starred_actors_inv,starred_actors_inv
+245,what does [Thomas Mitchell] star in,starred_actors_inv,starred_actors_inv
+246,what does [Patty Duke] star in,starred_actors_inv,starred_actors_inv
+247,what does [Jessalyn Gilsig] act in,starred_actors_inv,starred_actors_inv
+248,what films did [William Prince] star in,starred_actors_inv,starred_actors_inv
+249,what movies was [Jackie Chan] an actor in,starred_actors_inv,starred_actors_inv
+250,what films did [Kristoffer Joner] star in,starred_actors_inv,starred_actors_inv
+251,what movies was [Kris Kristofferson] an actor in,starred_actors_inv,starred_actors_inv
+252,what movies did [Candy Clark] star in,starred_actors_inv,starred_actors_inv
+253,what films did [Brontis Jodorowsky] star in,starred_actors_inv,starred_actors_inv
+254,what films did [Jason Clarke] star in,starred_actors_inv,starred_actors_inv
+255,what movies did [Doris Dowling] act in,starred_actors_inv,starred_actors_inv
+256,what films does [Nargis] appear in,starred_actors_inv,starred_actors_inv
+257,what does [Amber Joy Williams] star in,starred_actors_inv,starred_actors_inv
+258,what films did [John Gavin] act in,starred_actors_inv,starred_actors_inv
+259,what films does [Alan Ormsby] appear in,starred_actors_inv,starred_actors_inv
+260,what movies did [Richard Dawkins] act in,starred_actors_inv,starred_actors_inv
+261,what films did [Rob Estes] star in,starred_actors_inv,starred_actors_inv
+262,what does [Matthew Knight] star in,starred_actors_inv,starred_actors_inv
+263,what movies did [Adam Campbell] star in,starred_actors_inv,starred_actors_inv
+264,what does [Martha Nussbaum] star in,starred_actors_inv,starred_actors_inv
+265,what films does [Kay Medford] appear in,starred_actors_inv,starred_actors_inv
+266,what does [Thomas Ian Nicholas] appear in,starred_actors_inv,starred_actors_inv
+267,what does [Peter Riegert] appear in,starred_actors_inv,starred_actors_inv
+268,what movies did [Sami Frey] act in,starred_actors_inv,starred_actors_inv
+269,what films does [Mo'Nique] appear in,starred_actors_inv,starred_actors_inv
+270,what does [Emily Mortimer] star in,starred_actors_inv,starred_actors_inv
+271,[Owen Moore] appears in which movies,starred_actors_inv,starred_actors_inv
+272,what does [Peter Whitford] act in,starred_actors_inv,starred_actors_inv
+273,what does [Mike Norris] appear in,starred_actors_inv,starred_actors_inv
+274,what films did [Matt Lanter] star in,starred_actors_inv,starred_actors_inv
+275,what movies did [Mel Harris] act in,starred_actors_inv,starred_actors_inv
+276,what films does [Bonnie Gruesen] appear in,starred_actors_inv,starred_actors_inv
+277,what does [Jeffery Roberson] appear in,starred_actors_inv,starred_actors_inv
+278,what does [Isha Koppikar] appear in,starred_actors_inv,starred_actors_inv
+279,what films did [Sam Parsonson] star in,starred_actors_inv,starred_actors_inv
+280,what films does [Marjoe Gortner] appear in,starred_actors_inv,starred_actors_inv
+281,what films does [Rita Russek] appear in,starred_actors_inv,starred_actors_inv
+282,what movies did [Peter Marshall] act in,starred_actors_inv,starred_actors_inv
+283,what films did [Charles McDowell] star in,starred_actors_inv,starred_actors_inv
+284,[Abigail Spencer] appears in which movies,starred_actors_inv,starred_actors_inv
+285,what does [Earl Holliman] act in,starred_actors_inv,starred_actors_inv
+286,what does [Pamela Tola] act in,starred_actors_inv,starred_actors_inv
+287,what does [Martine Beswick] appear in,starred_actors_inv,starred_actors_inv
+288,what movies did [Gavin MacLeod] act in,starred_actors_inv,starred_actors_inv
+289,what films does [Sylvia Kristel] appear in,starred_actors_inv,starred_actors_inv
+290,what does [Karen Dotrice] appear in,starred_actors_inv,starred_actors_inv
+291,what does [Timothy Hutton] act in,starred_actors_inv,starred_actors_inv
+292,what films did [Alexis Bledel] star in,starred_actors_inv,starred_actors_inv
+293,what films did [Pam Ferris] act in,starred_actors_inv,starred_actors_inv
+294,what movies was [Santhanam] an actor in,starred_actors_inv,starred_actors_inv
+295,what films does [Diana Wynyard] appear in,starred_actors_inv,starred_actors_inv
+296,what movies was [Nelly Alard] an actor in,starred_actors_inv,starred_actors_inv
+297,what movies did [Richard Dix] star in,starred_actors_inv,starred_actors_inv
+298,what does [Tobe Hooper] appear in,starred_actors_inv,starred_actors_inv
+299,[Kirby Dick] appears in which movies,starred_actors_inv,starred_actors_inv
+300,what does [Ted Wass] appear in,starred_actors_inv,starred_actors_inv
+301,what films did [Mary Carlisle] act in,starred_actors_inv,starred_actors_inv
+302,what movies was [Bill Travers] an actor in,starred_actors_inv,starred_actors_inv
+303,[Brian Posehn] appears in which movies,starred_actors_inv,starred_actors_inv
+304,what does [Marlène Jobert] appear in,starred_actors_inv,starred_actors_inv
+305,[Tess Harper] appears in which movies,starred_actors_inv,starred_actors_inv
+306,what films does [Ben Oxenbould] appear in,starred_actors_inv,starred_actors_inv
+307,[Peter Berg] appears in which movies,starred_actors_inv,starred_actors_inv
+308,what films did [Shane Briant] star in,starred_actors_inv,starred_actors_inv
+309,what films does [Jodie Foster] appear in,starred_actors_inv,starred_actors_inv
+310,what does [Elena Fabrizi] appear in,starred_actors_inv,starred_actors_inv
+311,what does [Patrick Casey] act in,starred_actors_inv,starred_actors_inv
+312,what does [Meredith Scott Lynn] act in,starred_actors_inv,starred_actors_inv
+313,what does [Amanda Peterson] appear in,starred_actors_inv,starred_actors_inv
+314,what films did [Mary Gross] act in,starred_actors_inv,starred_actors_inv
+315,what movies was [Pablo Echarri] an actor in,starred_actors_inv,starred_actors_inv
+316,what films did [C. Aubrey Smith] act in,starred_actors_inv,starred_actors_inv
+317,what does [Deborah Winters] appear in,starred_actors_inv,starred_actors_inv
+318,what does [Christina Applegate] appear in,starred_actors_inv,starred_actors_inv
+319,what movies was [Betty Hutton] an actor in,starred_actors_inv,starred_actors_inv
+320,what does [Gian Maria Volonté] appear in,starred_actors_inv,starred_actors_inv
+321,what movies was [John Simm] an actor in,starred_actors_inv,starred_actors_inv
+322,what does [Neve Campbell] appear in,starred_actors_inv,starred_actors_inv
+323,what does [Adrian Lester] act in,starred_actors_inv,starred_actors_inv
+324,what movies did [Nathaniel Brown] star in,starred_actors_inv,starred_actors_inv
+325,what films did [George Relph] star in,starred_actors_inv,starred_actors_inv
+326,what does [Earle Hodgins] act in,starred_actors_inv,starred_actors_inv
+327,what does [Rebecca Romijn] star in,starred_actors_inv,starred_actors_inv
+328,[Ashley Greene] appears in which movies,starred_actors_inv,starred_actors_inv
+329,what movies did [Mark Chao] star in,starred_actors_inv,starred_actors_inv
+330,what does [Elisha Cuthbert] star in,starred_actors_inv,starred_actors_inv
+331,[Urbano Barberini] appears in which movies,starred_actors_inv,starred_actors_inv
+332,what does [Schuyler Fisk] star in,starred_actors_inv,starred_actors_inv
+333,what does [Tatanka Means] act in,starred_actors_inv,starred_actors_inv
+334,what films does [Iain De Caestecker] appear in,starred_actors_inv,starred_actors_inv
+335,what does [Mario Machado] act in,starred_actors_inv,starred_actors_inv
+336,what films does [Tim McInnerny] appear in,starred_actors_inv,starred_actors_inv
+337,what movies did [Jo Van Fleet] star in,starred_actors_inv,starred_actors_inv
+338,what films did [Jesper Asholt] act in,starred_actors_inv,starred_actors_inv
+339,what films does [Sonakshi Sinha] appear in,starred_actors_inv,starred_actors_inv
+340,what films does [Eddie Axberg] appear in,starred_actors_inv,starred_actors_inv
+341,what films did [Jimmy Durante] star in,starred_actors_inv,starred_actors_inv
+342,what movies did [David Arkin] act in,starred_actors_inv,starred_actors_inv
+343,what movies did [Jörg Pleva] star in,starred_actors_inv,starred_actors_inv
+344,what films does [David Naughton] appear in,starred_actors_inv,starred_actors_inv
+345,what films does [Juan José Camero] appear in,starred_actors_inv,starred_actors_inv
+346,what movies did [Peter Graves] act in,starred_actors_inv,starred_actors_inv
+347,what films did [Natalie McCurry] star in,starred_actors_inv,starred_actors_inv
+348,what movies did [Ruth Nelson] star in,starred_actors_inv,starred_actors_inv
+349,what movies did [Robert Webber] act in,starred_actors_inv,starred_actors_inv
+350,what films did [Bam Margera] act in,starred_actors_inv,starred_actors_inv
+351,what films did [Bernie Kopell] act in,starred_actors_inv,starred_actors_inv
+352,what movies did [Maureen Stapleton] star in,starred_actors_inv,starred_actors_inv
+353,what films did [Murray Hamilton] act in,starred_actors_inv,starred_actors_inv
+354,what movies did [Brandon Sean Pearson] act in,starred_actors_inv,starred_actors_inv
+355,what films does [Chief Dan George] appear in,starred_actors_inv,starred_actors_inv
+356,[David Kelly] appears in which movies,starred_actors_inv,starred_actors_inv
+357,what movies did [André Hennicke] star in,starred_actors_inv,starred_actors_inv
+358,what films did [Krystyna Janda] star in,starred_actors_inv,starred_actors_inv
+359,what movies was [Marla Gibbs] an actor in,starred_actors_inv,starred_actors_inv
+360,what movies did [Virginia Weidler] star in,starred_actors_inv,starred_actors_inv
+361,what movies did [Wilfred Pickles] star in,starred_actors_inv,starred_actors_inv
+362,what movies did [Anna Drijver] star in,starred_actors_inv,starred_actors_inv
+363,what does [Maude George] act in,starred_actors_inv,starred_actors_inv
+364,what films did [Victoire Thivisol] star in,starred_actors_inv,starred_actors_inv
+365,what does [Winona Ryder] appear in,starred_actors_inv,starred_actors_inv
+366,[Joel Torre] appears in which movies,starred_actors_inv,starred_actors_inv
+367,what does [Kate del Castillo] appear in,starred_actors_inv,starred_actors_inv
+368,what films did [Karina Smulders] act in,starred_actors_inv,starred_actors_inv
+369,what does [Billy Bob Thornton] act in,starred_actors_inv,starred_actors_inv
+370,[James T. Callahan] appears in which movies,starred_actors_inv,starred_actors_inv
+371,what does [Eva Green] act in,starred_actors_inv,starred_actors_inv
+372,what movies was [Ella Raines] an actor in,starred_actors_inv,starred_actors_inv
+373,what films did [Paul Panzer] star in,starred_actors_inv,starred_actors_inv
+374,what does [Elisabetta Pozzi] appear in,starred_actors_inv,starred_actors_inv
+375,what does [Lilyan Tashman] appear in,starred_actors_inv,starred_actors_inv
+376,what does [Alice Joyce] star in,starred_actors_inv,starred_actors_inv
+377,what movies did [Kyle Clare] star in,starred_actors_inv,starred_actors_inv
+378,what films did [Christopher Kadish] act in,starred_actors_inv,starred_actors_inv
+379,what films did [Ted Knight] act in,starred_actors_inv,starred_actors_inv
+380,what films did [Rebekah Johnson] act in,starred_actors_inv,starred_actors_inv
+381,what movies did [Judge Reinhold] act in,starred_actors_inv,starred_actors_inv
+382,what films did [Alain Delon] star in,starred_actors_inv,starred_actors_inv
+383,what does [Susan Peters] appear in,starred_actors_inv,starred_actors_inv
+384,what films did [Clark Gable] star in,starred_actors_inv,starred_actors_inv
+385,what films did [Bobby Moat] star in,starred_actors_inv,starred_actors_inv
+386,what movies did [Melanie Mayron] star in,starred_actors_inv,starred_actors_inv
+387,what films did [Laurie Bird] star in,starred_actors_inv,starred_actors_inv
+388,what films did [Jason Rogel] act in,starred_actors_inv,starred_actors_inv
+389,what films did [Lynn Shelton] star in,starred_actors_inv,starred_actors_inv
+390,what does [Lorraine Toussaint] act in,starred_actors_inv,starred_actors_inv
+391,what does [Ashanti] appear in,starred_actors_inv,starred_actors_inv
+392,[Erin O'Brien] appears in which movies,starred_actors_inv,starred_actors_inv
+393,what movies did [Hiroshi Abe] star in,starred_actors_inv,starred_actors_inv
+394,what films does [Rita Jenrette] appear in,starred_actors_inv,starred_actors_inv
+395,what films does [Christopher Connelly] appear in,starred_actors_inv,starred_actors_inv
+396,what movies did [Ricardo Chavira] act in,starred_actors_inv,starred_actors_inv
+397,what does [Matt Price] star in,starred_actors_inv,starred_actors_inv
+398,what films does [Gerard Butler] appear in,starred_actors_inv,starred_actors_inv
+399,what movies did [Edwige Fenech] act in,starred_actors_inv,starred_actors_inv
+400,what movies did [Chase Williamson] act in,starred_actors_inv,starred_actors_inv
+401,what films does [Douglas Fairbanks] appear in,starred_actors_inv,starred_actors_inv
+402,what films did [Millard Mitchell] star in,starred_actors_inv,starred_actors_inv
+403,what movies did [Julianne Nicholson] act in,starred_actors_inv,starred_actors_inv
+404,what does [Radner Muratov] star in,starred_actors_inv,starred_actors_inv
+405,what films did [Jordana Brewster] act in,starred_actors_inv,starred_actors_inv
+406,what movies did [Gwendolyn Laster] act in,starred_actors_inv,starred_actors_inv
+407,what films did [Bud Abbott] star in,starred_actors_inv,starred_actors_inv
+408,what does [Alia Bhatt] appear in,starred_actors_inv,starred_actors_inv
+409,what movies was [David O'Hara] an actor in,starred_actors_inv,starred_actors_inv
+410,[Jorma Taccone] appears in which movies,starred_actors_inv,starred_actors_inv
+411,what does [Tab Hunter] star in,starred_actors_inv,starred_actors_inv
+412,what movies did [Elsa Lanchester] star in,starred_actors_inv,starred_actors_inv
+413,what movies did [Mari Natsuki] star in,starred_actors_inv,starred_actors_inv
+414,what does [Cab Calloway] act in,starred_actors_inv,starred_actors_inv
+415,[James Gandolfini] appears in which movies,starred_actors_inv,starred_actors_inv
+416,what movies did [Adam Cronheim] act in,starred_actors_inv,starred_actors_inv
+417,what movies did [Jaclyn Smith] act in,starred_actors_inv,starred_actors_inv
+418,what movies did [Katrin Cartlidge] star in,starred_actors_inv,starred_actors_inv
+419,what movies did [Mark Hamill] act in,starred_actors_inv,starred_actors_inv
+420,what does [Nic Campos] star in,starred_actors_inv,starred_actors_inv
+421,what movies did [Gigi Darlene] act in,starred_actors_inv,starred_actors_inv
+422,[Jenna Harrison] appears in which movies,starred_actors_inv,starred_actors_inv
+423,what does [Brian Thompson] star in,starred_actors_inv,starred_actors_inv
+424,what films does [Dabney Coleman] appear in,starred_actors_inv,starred_actors_inv
+425,what does [Michael Blieden] act in,starred_actors_inv,starred_actors_inv
+426,what movies did [Viola Davis] act in,starred_actors_inv,starred_actors_inv
+427,what movies did [Philipp Karner] star in,starred_actors_inv,starred_actors_inv
+428,what films did [Spring Byington] act in,starred_actors_inv,starred_actors_inv
+429,what movies did [André Benjamin] star in,starred_actors_inv,starred_actors_inv
+430,what movies did [Tyne Daly] star in,starred_actors_inv,starred_actors_inv
+431,what movies did [Aya Irizuki] act in,starred_actors_inv,starred_actors_inv
+432,what films did [Ina Balin] act in,starred_actors_inv,starred_actors_inv
+433,what films did [Kyle Gallner] act in,starred_actors_inv,starred_actors_inv
+434,what does [Veronica Sywak] star in,starred_actors_inv,starred_actors_inv
+435,what does [John Longden] appear in,starred_actors_inv,starred_actors_inv
+436,what films did [Mary Tyler Moore] star in,starred_actors_inv,starred_actors_inv
+437,what does [Pat Buchanan] act in,starred_actors_inv,starred_actors_inv
+438,what films did [Cecilia Parker] star in,starred_actors_inv,starred_actors_inv
+439,what movies did [Harris Yulin] act in,starred_actors_inv,starred_actors_inv
+440,what movies did [Jimmy Nail] star in,starred_actors_inv,starred_actors_inv
+441,what films did [Nathan Fillion] star in,starred_actors_inv,starred_actors_inv
+442,[Scott MacDonald] appears in which movies,starred_actors_inv,starred_actors_inv
+443,what films does [Virginia Bruce] appear in,starred_actors_inv,starred_actors_inv
+444,what films did [Göran Ragnerstam] star in,starred_actors_inv,starred_actors_inv
+445,what does [Jeremy Davies] star in,starred_actors_inv,starred_actors_inv
+446,what does [Heinrich George] appear in,starred_actors_inv,starred_actors_inv
+447,what movies did [Carmen Electra] star in,starred_actors_inv,starred_actors_inv
+448,what does [Kimberly Elise] appear in,starred_actors_inv,starred_actors_inv
+449,what films did [Minoru Takashima] star in,starred_actors_inv,starred_actors_inv
+450,what does [Patricia Charbonneau] star in,starred_actors_inv,starred_actors_inv
+451,[Murray Head] appears in which movies,starred_actors_inv,starred_actors_inv
+452,what movies did [Katt Williams] star in,starred_actors_inv,starred_actors_inv
+453,what does [Tina Holmes] act in,starred_actors_inv,starred_actors_inv
+454,what films does [Janet League] appear in,starred_actors_inv,starred_actors_inv
+455,what films did [Richard Gere] star in,starred_actors_inv,starred_actors_inv
+456,what movies did [Bill Moseley] star in,starred_actors_inv,starred_actors_inv
+457,what movies did [Cameron Diaz] star in,starred_actors_inv,starred_actors_inv
+458,what movies did [Nana Patekar] star in,starred_actors_inv,starred_actors_inv
+459,[Rémy Girard] appears in which movies,starred_actors_inv,starred_actors_inv
+460,what movies did [Alex Karras] act in,starred_actors_inv,starred_actors_inv
+461,[Miriam Makeba] appears in which movies,starred_actors_inv,starred_actors_inv
+462,what films did [Ben Drew] star in,starred_actors_inv,starred_actors_inv
+463,what films did [Shaun Dooley] act in,starred_actors_inv,starred_actors_inv
+464,what does [Lee Horsley] star in,starred_actors_inv,starred_actors_inv
+465,what movies did [Sally Field] act in,starred_actors_inv,starred_actors_inv
+466,[Donna Mills] appears in which movies,starred_actors_inv,starred_actors_inv
+467,what movies did [James Woods] act in,starred_actors_inv,starred_actors_inv
+468,what films did [Jonathan Silverman] act in,starred_actors_inv,starred_actors_inv
+469,what films does [Hugues Quester] appear in,starred_actors_inv,starred_actors_inv
+470,what movies did [Eliza Dushku] act in,starred_actors_inv,starred_actors_inv
+471,what films did [Lorna Maitland] star in,starred_actors_inv,starred_actors_inv
+472,what does [Darwin Joston] act in,starred_actors_inv,starred_actors_inv
+473,what does [Olivia Munn] appear in,starred_actors_inv,starred_actors_inv
+474,what movies did [Claude Rains] act in,starred_actors_inv,starred_actors_inv
+475,what does [Conrad Janis] star in,starred_actors_inv,starred_actors_inv
+476,what films does [Michael Shannon] appear in,starred_actors_inv,starred_actors_inv
+477,what movies did [Joanne Nail] act in,starred_actors_inv,starred_actors_inv
+478,what films did [Evan Adams] act in,starred_actors_inv,starred_actors_inv
+479,what movies was [Sissy Spacek] an actor in,starred_actors_inv,starred_actors_inv
+480,what films did [Michael J. Pollard] act in,starred_actors_inv,starred_actors_inv
+481,what does [Derek Jarman] appear in,starred_actors_inv,starred_actors_inv
+482,what does [Michael Hurst] act in,starred_actors_inv,starred_actors_inv
+483,what does [Veronica Lake] star in,starred_actors_inv,starred_actors_inv
+484,what does [Jonathan Frid] act in,starred_actors_inv,starred_actors_inv
+485,what does [Milo O'Shea] appear in,starred_actors_inv,starred_actors_inv
+486,what films does [Tony Curran] appear in,starred_actors_inv,starred_actors_inv
+487,what films did [Louis Jourdan] act in,starred_actors_inv,starred_actors_inv
+488,what films did [Jason Mewes] star in,starred_actors_inv,starred_actors_inv
+489,what movies did [Janet Agren] act in,starred_actors_inv,starred_actors_inv
+490,what does [Marta Etura] appear in,starred_actors_inv,starred_actors_inv
+491,what movies did [Rin Takanashi] act in,starred_actors_inv,starred_actors_inv
+492,[Youssef Chahine] appears in which movies,starred_actors_inv,starred_actors_inv
+493,what does [Trond Fausa] star in,starred_actors_inv,starred_actors_inv
+494,what does [Tobin Bell] appear in,starred_actors_inv,starred_actors_inv
+495,what movies did [Robert Montgomery] star in,starred_actors_inv,starred_actors_inv
+496,what does [Peter Bogdanovich] act in,starred_actors_inv,starred_actors_inv
+497,[George Stover] appears in which movies,starred_actors_inv,starred_actors_inv
+498,what does [Charles Coburn] act in,starred_actors_inv,starred_actors_inv
+499,what films does [Ken Marshall] appear in,starred_actors_inv,starred_actors_inv
+500,what movies did [Walter Huston] star in,starred_actors_inv,starred_actors_inv
+501,what does [Barbra Streisand] star in,starred_actors_inv,starred_actors_inv
+502,what does [Minase Yashiro] star in,starred_actors_inv,starred_actors_inv
+503,what movies did [June Allyson] star in,starred_actors_inv,starred_actors_inv
+504,what movies did [Marcello Pagliero] star in,starred_actors_inv,starred_actors_inv
+505,[Yasuko Matsuyuki] appears in which movies,starred_actors_inv,starred_actors_inv
+506,what does [George Hardy] star in,starred_actors_inv,starred_actors_inv
+507,what films did [Ariadna Gil] star in,starred_actors_inv,starred_actors_inv
+508,what movies was [Loretta Young] an actor in,starred_actors_inv,starred_actors_inv
+509,what films did [Levon Helm] act in,starred_actors_inv,starred_actors_inv
+510,[E.G. Marshall] appears in which movies,starred_actors_inv,starred_actors_inv
+511,what films does [Robert Ivers] appear in,starred_actors_inv,starred_actors_inv
+512,what films did [Tony Danza] star in,starred_actors_inv,starred_actors_inv
+513,what films did [Don DeFore] star in,starred_actors_inv,starred_actors_inv
+514,what films did [Andrew Howard] act in,starred_actors_inv,starred_actors_inv
+515,what films does [Richard Dutcher] appear in,starred_actors_inv,starred_actors_inv
+516,what films did [Jeroen Krabbé] star in,starred_actors_inv,starred_actors_inv
+517,what does [Rosa Sánchez] act in,starred_actors_inv,starred_actors_inv
+518,what movies was [Melvyn Douglas] an actor in,starred_actors_inv,starred_actors_inv
+519,what movies was [Nanette Newman] an actor in,starred_actors_inv,starred_actors_inv
+520,what films did [Clara Choveaux] star in,starred_actors_inv,starred_actors_inv
+521,what movies did [Rod La Rocque] star in,starred_actors_inv,starred_actors_inv
+522,what does [Peter Forbes] appear in,starred_actors_inv,starred_actors_inv
+523,what films did [Felicity Huffman] act in,starred_actors_inv,starred_actors_inv
+524,what movies was [Bill Nunn] an actor in,starred_actors_inv,starred_actors_inv
+525,what does [Ian Holm] appear in,starred_actors_inv,starred_actors_inv
+526,what films did [Christian Barbier] act in,starred_actors_inv,starred_actors_inv
+527,what movies was [Eugene Domingo] an actor in,starred_actors_inv,starred_actors_inv
+528,what movies did [Colin Hanks] star in,starred_actors_inv,starred_actors_inv
+529,what does [Adam Beach] appear in,starred_actors_inv,starred_actors_inv
+530,what does [Stathis Giallelis] appear in,starred_actors_inv,starred_actors_inv
+531,what films did [Isidora Simijonovic] star in,starred_actors_inv,starred_actors_inv
+532,what films did [Rachel True] star in,starred_actors_inv,starred_actors_inv
+533,what films did [Bess Armstrong] star in,starred_actors_inv,starred_actors_inv
+534,what films does [Minka Kelly] appear in,starred_actors_inv,starred_actors_inv
+535,what films did [Robin Wright] act in,starred_actors_inv,starred_actors_inv
+536,what movies did [Alan Marshal] act in,starred_actors_inv,starred_actors_inv
+537,what movies was [Patrick Elyas] an actor in,starred_actors_inv,starred_actors_inv
+538,what does [James Millican] star in,starred_actors_inv,starred_actors_inv
+539,what does [Claude Lelouch] act in,starred_actors_inv,starred_actors_inv
+540,what does [Mary Kay Place] star in,starred_actors_inv,starred_actors_inv
+541,what does [Candace Cameron Bure] star in,starred_actors_inv,starred_actors_inv
+542,what movies was [Dev Patel] an actor in,starred_actors_inv,starred_actors_inv
+543,what movies did [Swoosie Kurtz] act in,starred_actors_inv,starred_actors_inv
+544,what films did [Ayu Kitaura] star in,starred_actors_inv,starred_actors_inv
+545,what movies did [Vincent Price] star in,starred_actors_inv,starred_actors_inv
+546,what movies did [George Wendt] star in,starred_actors_inv,starred_actors_inv
+547,what movies did [Suroosh Alvi] star in,starred_actors_inv,starred_actors_inv
+548,what does [Annie Shizuka Inoh] act in,starred_actors_inv,starred_actors_inv
+549,what films does [John Kahrs] appear in,starred_actors_inv,starred_actors_inv
+550,what films does [Marthe Villalonga] appear in,starred_actors_inv,starred_actors_inv
+551,what does [Ciarán Hinds] star in,starred_actors_inv,starred_actors_inv
+552,what does [Y.K. Kim] star in,starred_actors_inv,starred_actors_inv
+553,what movies did [Azura Skye] act in,starred_actors_inv,starred_actors_inv
+554,what does [Rory Cochrane] appear in,starred_actors_inv,starred_actors_inv
+555,what does [Wally Cox] appear in,starred_actors_inv,starred_actors_inv
+556,what does [Amanda Wyss] act in,starred_actors_inv,starred_actors_inv
+557,what does [Sultan Islamov] appear in,starred_actors_inv,starred_actors_inv
+558,what films did [Fahadh Faasil] star in,starred_actors_inv,starred_actors_inv
+559,what does [Branko Tomovic] appear in,starred_actors_inv,starred_actors_inv
+560,what films did [Ving Rhames] act in,starred_actors_inv,starred_actors_inv
+561,what movies did [Shoshana Bush] star in,starred_actors_inv,starred_actors_inv
+562,what films did [Gale Sondergaard] star in,starred_actors_inv,starred_actors_inv
+563,what movies was [Meaghan Martin] an actor in,starred_actors_inv,starred_actors_inv
+564,[Manuel Manquiña] appears in which movies,starred_actors_inv,starred_actors_inv
+565,what does [Ricky Gervais] star in,starred_actors_inv,starred_actors_inv
+566,what does [Bret Roberts] appear in,starred_actors_inv,starred_actors_inv
+567,what movies did [J. Carrol Naish] star in,starred_actors_inv,starred_actors_inv
+568,what films did [Paul Brannigan] star in,starred_actors_inv,starred_actors_inv
+569,what films did [Jean Marsh] star in,starred_actors_inv,starred_actors_inv
+570,what films did [Alan Cumming] star in,starred_actors_inv,starred_actors_inv
+571,what does [Aneta Corsaut] star in,starred_actors_inv,starred_actors_inv
+572,what films did [Frank Overton] act in,starred_actors_inv,starred_actors_inv
+573,what movies did [Nan Martin] act in,starred_actors_inv,starred_actors_inv
+574,what films did [Rumi Hiiragi] star in,starred_actors_inv,starred_actors_inv
+575,what movies did [Ella Reid] act in,starred_actors_inv,starred_actors_inv
+576,what does [Tyrese Gibson] appear in,starred_actors_inv,starred_actors_inv
+577,what movies did [Alex Karzis] star in,starred_actors_inv,starred_actors_inv
+578,what films did [Joanna Pacula] act in,starred_actors_inv,starred_actors_inv
+579,what movies was [Cung Le] an actor in,starred_actors_inv,starred_actors_inv
+580,what movies was [Thommy Berggren] an actor in,starred_actors_inv,starred_actors_inv
+581,what does [Robert Williams] star in,starred_actors_inv,starred_actors_inv
+582,what does [Kathleen Ryan] act in,starred_actors_inv,starred_actors_inv
+583,[Zell Miller] appears in which movies,starred_actors_inv,starred_actors_inv
+584,what movies did [Heather Ann Davis] star in,starred_actors_inv,starred_actors_inv
+585,what films does [Omari Hardwick] appear in,starred_actors_inv,starred_actors_inv
+586,what movies did [Rizwan Manji] star in,starred_actors_inv,starred_actors_inv
+587,what does [Marcus Patrick] star in,starred_actors_inv,starred_actors_inv
+588,what does [Cole Sprouse] appear in,starred_actors_inv,starred_actors_inv
+589,what movies was [Robert Cummings] an actor in,starred_actors_inv,starred_actors_inv
+590,[Ann Sheridan] appears in which movies,starred_actors_inv,starred_actors_inv
+591,what does [Julie Harris] star in,starred_actors_inv,starred_actors_inv
+592,what movies was [Gemma Arterton] an actor in,starred_actors_inv,starred_actors_inv
+593,what does [Richard Briers] appear in,starred_actors_inv,starred_actors_inv
+594,what does [Victor Mature] act in,starred_actors_inv,starred_actors_inv
+595,what films does [Dan Futterman] appear in,starred_actors_inv,starred_actors_inv
+596,what movies did [Peter Kastner] star in,starred_actors_inv,starred_actors_inv
+597,what films does [Patricia Roc] appear in,starred_actors_inv,starred_actors_inv
+598,what does [William Hickey] act in,starred_actors_inv,starred_actors_inv
+599,what does [Esther Furst] appear in,starred_actors_inv,starred_actors_inv
+600,what does [Odette Annable] star in,starred_actors_inv,starred_actors_inv
+601,what films did [Carrie Snodgress] star in,starred_actors_inv,starred_actors_inv
+602,what movies did [Casper Van Dien] act in,starred_actors_inv,starred_actors_inv
+603,what films does [Suzanne Fields] appear in,starred_actors_inv,starred_actors_inv
+604,what movies did [Kevin Zegers] star in,starred_actors_inv,starred_actors_inv
+605,what movies did [Pascale Ogier] act in,starred_actors_inv,starred_actors_inv
+606,what films does [John Cromwell] appear in,starred_actors_inv,starred_actors_inv
+607,what films did [Sharon Tate] star in,starred_actors_inv,starred_actors_inv
+608,what movies did [Amy Matysio] star in,starred_actors_inv,starred_actors_inv
+609,what films did [Michael Latimer] act in,starred_actors_inv,starred_actors_inv
+610,what movies did [Satoshi Tsumabuki] star in,starred_actors_inv,starred_actors_inv
+611,[Cynda Williams] appears in which movies,starred_actors_inv,starred_actors_inv
+612,what films does [Adrienne Ames] appear in,starred_actors_inv,starred_actors_inv
+613,what does [Alec Baldwin] appear in,starred_actors_inv,starred_actors_inv
+614,what films does [Nick Cheung] appear in,starred_actors_inv,starred_actors_inv
+615,what does [Dexter Fletcher] appear in,starred_actors_inv,starred_actors_inv
+616,what films did [Jun Tazaki] star in,starred_actors_inv,starred_actors_inv
+617,what movies was [Daisy Betts] an actor in,starred_actors_inv,starred_actors_inv
+618,what does [Eric Lange] appear in,starred_actors_inv,starred_actors_inv
+619,what films did [Tia Texada] act in,starred_actors_inv,starred_actors_inv
+620,what films does [Hanna Mangan Lawrence] appear in,starred_actors_inv,starred_actors_inv
+621,what does [Elizabeth Allan] act in,starred_actors_inv,starred_actors_inv
+622,what movies did [Bella Darvi] star in,starred_actors_inv,starred_actors_inv
+623,what films did [Yukiko Kobayashi] star in,starred_actors_inv,starred_actors_inv
+624,what does [Elisabeth Shue] act in,starred_actors_inv,starred_actors_inv
+625,what does [Margaret Field] appear in,starred_actors_inv,starred_actors_inv
+626,what does [Arthur Godfrey] star in,starred_actors_inv,starred_actors_inv
+627,what does [Magda Apanowicz] appear in,starred_actors_inv,starred_actors_inv
+628,what does [Bruce Perens] act in,starred_actors_inv,starred_actors_inv
+629,what films does [Lisa Gastoni] appear in,starred_actors_inv,starred_actors_inv
+630,what does [Oscar Redding] star in,starred_actors_inv,starred_actors_inv
+631,what films does [Spike Lee] appear in,starred_actors_inv,starred_actors_inv
+632,what movies did [Derek Lee] act in,starred_actors_inv,starred_actors_inv
+633,what movies did [Jennifer Westfeldt] act in,starred_actors_inv,starred_actors_inv
+634,what films does [Rhys Williams] appear in,starred_actors_inv,starred_actors_inv
+635,what films does [Charles Cioffi] appear in,starred_actors_inv,starred_actors_inv
+636,what movies did [Nicholas Woodeson] star in,starred_actors_inv,starred_actors_inv
+637,what films did [Stéphane Audran] act in,starred_actors_inv,starred_actors_inv
+638,what does [Greg Bryk] appear in,starred_actors_inv,starred_actors_inv
+639,what movies was [Mía Maestro] an actor in,starred_actors_inv,starred_actors_inv
+640,what does [Catherine McCormack] star in,starred_actors_inv,starred_actors_inv
+641,what movies was [Lee Tracy] an actor in,starred_actors_inv,starred_actors_inv
+642,what does [Alan Van Sprang] act in,starred_actors_inv,starred_actors_inv
+643,[Rebecca Pidgeon] appears in which movies,starred_actors_inv,starred_actors_inv
+644,what movies did [Charlotte Greenwood] star in,starred_actors_inv,starred_actors_inv
+645,what movies was [James Brolin] an actor in,starred_actors_inv,starred_actors_inv
+646,what movies was [Anka Graczyk] an actor in,starred_actors_inv,starred_actors_inv
+647,what films did [Susie Porter] star in,starred_actors_inv,starred_actors_inv
+648,what films did [Ruby Wong] star in,starred_actors_inv,starred_actors_inv
+649,what movies did [Henry Scott] act in,starred_actors_inv,starred_actors_inv
+650,[Kevin Gage] appears in which movies,starred_actors_inv,starred_actors_inv
+651,what does [Mac Davis] star in,starred_actors_inv,starred_actors_inv
+652,what does [Steve Lawrence] star in,starred_actors_inv,starred_actors_inv
+653,[Man San Lu] appears in which movies,starred_actors_inv,starred_actors_inv
+654,what does [Camilla Sparv] star in,starred_actors_inv,starred_actors_inv
+655,what does [Russell Means] star in,starred_actors_inv,starred_actors_inv
+656,what movies did [John Benjamin Hickey] act in,starred_actors_inv,starred_actors_inv
+657,what does [Luana Anders] appear in,starred_actors_inv,starred_actors_inv
+658,what does [Katherine Clisby] appear in,starred_actors_inv,starred_actors_inv
+659,what films did [Thomas Mann] act in,starred_actors_inv,starred_actors_inv
+660,what does [Aleksey Batalov] star in,starred_actors_inv,starred_actors_inv
+661,what movies was [Clayton Moore] an actor in,starred_actors_inv,starred_actors_inv
+662,what does [Kiefer Sutherland] star in,starred_actors_inv,starred_actors_inv
+663,what does [Emraan Hashmi] star in,starred_actors_inv,starred_actors_inv
+664,what films does [Jennifer Saunders] appear in,starred_actors_inv,starred_actors_inv
+665,what films does [Ray Lovelock] appear in,starred_actors_inv,starred_actors_inv
+666,what does [Tom Burke] act in,starred_actors_inv,starred_actors_inv
+667,what does [Josephine Hull] act in,starred_actors_inv,starred_actors_inv
+668,[Thi Loc Truong] appears in which movies,starred_actors_inv,starred_actors_inv
+669,what movies did [Joanna Gleason] act in,starred_actors_inv,starred_actors_inv
+670,what does [Bug Hall] appear in,starred_actors_inv,starred_actors_inv
+671,what movies did [Andrew Robertson] act in,starred_actors_inv,starred_actors_inv
+672,what movies was [Tom Malloy] an actor in,starred_actors_inv,starred_actors_inv
+673,what films did [Rita Wilson] star in,starred_actors_inv,starred_actors_inv
+674,what movies was [Josh Wiggins] an actor in,starred_actors_inv,starred_actors_inv
+675,what does [D.L. Hughley] appear in,starred_actors_inv,starred_actors_inv
+676,what films did [Emma Thompson] act in,starred_actors_inv,starred_actors_inv
+677,what movies did [Youssouf Djaoro] act in,starred_actors_inv,starred_actors_inv
+678,what does [Arin Crumley] appear in,starred_actors_inv,starred_actors_inv
+679,what does [Stephen Mendillo] star in,starred_actors_inv,starred_actors_inv
+680,what films does [Claude Mann] appear in,starred_actors_inv,starred_actors_inv
+681,what movies did [Greg Kinnear] star in,starred_actors_inv,starred_actors_inv
+682,what movies was [Michael Pergolani] an actor in,starred_actors_inv,starred_actors_inv
+683,what films did [Joan Lorring] act in,starred_actors_inv,starred_actors_inv
+684,[Jimi Mistry] appears in which movies,starred_actors_inv,starred_actors_inv
+685,what movies did [Anthony Andrews] star in,starred_actors_inv,starred_actors_inv
+686,what films did [Richard Garland] star in,starred_actors_inv,starred_actors_inv
+687,what films did [Carlos Mencia] act in,starred_actors_inv,starred_actors_inv
+688,what films did [Rachel Hendrix] star in,starred_actors_inv,starred_actors_inv
+689,what films does [Stacy Keach] appear in,starred_actors_inv,starred_actors_inv
+690,[Briana Evigan] appears in which movies,starred_actors_inv,starred_actors_inv
+691,what movies did [Sid Haig] act in,starred_actors_inv,starred_actors_inv
+692,what does [Olga Tudorache] appear in,starred_actors_inv,starred_actors_inv
+693,[James Belushi] appears in which movies,starred_actors_inv,starred_actors_inv
+694,what films does [Kate Bosworth] appear in,starred_actors_inv,starred_actors_inv
+695,what does [Jack Ashford] act in,starred_actors_inv,starred_actors_inv
+696,what does [Laurie Metcalf] star in,starred_actors_inv,starred_actors_inv
+697,what does [Jason Cope] star in,starred_actors_inv,starred_actors_inv
+698,what does [Yoshiko Shinohara] act in,starred_actors_inv,starred_actors_inv
+699,what movies did [Albert Hall] act in,starred_actors_inv,starred_actors_inv
+700,what movies did [Mercedes Cabral] star in,starred_actors_inv,starred_actors_inv
+701,what movies did [Diana Rigg] act in,starred_actors_inv,starred_actors_inv
+702,what films did [Susan Strasberg] star in,starred_actors_inv,starred_actors_inv
+703,what films does [Quvenzhané Wallis] appear in,starred_actors_inv,starred_actors_inv
+704,what films does [Creighton Hale] appear in,starred_actors_inv,starred_actors_inv
+705,what movies did [Aoi Miyazaki] act in,starred_actors_inv,starred_actors_inv
+706,what does [Ana Torrent] star in,starred_actors_inv,starred_actors_inv
+707,what does [George Reeves] star in,starred_actors_inv,starred_actors_inv
+708,what movies was [Jenna Dewan Tatum] an actor in,starred_actors_inv,starred_actors_inv
+709,what films did [Carmen Miranda] star in,starred_actors_inv,starred_actors_inv
+710,what films did [Jon Lovitz] act in,starred_actors_inv,starred_actors_inv
+711,what movies did [Max Pomeranc] star in,starred_actors_inv,starred_actors_inv
+712,what movies was [Nicolas Cage] an actor in,starred_actors_inv,starred_actors_inv
+713,what does [Chayanne] star in,starred_actors_inv,starred_actors_inv
+714,what does [Judy Gunn] act in,starred_actors_inv,starred_actors_inv
+715,what movies did [Louis de Funès] act in,starred_actors_inv,starred_actors_inv
+716,[Taylor Nichols] appears in which movies,starred_actors_inv,starred_actors_inv
+717,what films does [Peter O'Toole] appear in,starred_actors_inv,starred_actors_inv
+718,what films did [Deon Richmond] act in,starred_actors_inv,starred_actors_inv
+719,what does [Betsy Blair] appear in,starred_actors_inv,starred_actors_inv
+720,what films did [Toni Collette] act in,starred_actors_inv,starred_actors_inv
+721,what movies was [Yvette Vickers] an actor in,starred_actors_inv,starred_actors_inv
+722,[Danny Trejo] appears in which movies,starred_actors_inv,starred_actors_inv
+723,what does [Lauren Miller] appear in,starred_actors_inv,starred_actors_inv
+724,what does [Reinhold Messner] appear in,starred_actors_inv,starred_actors_inv
+725,what films did [Colin Friels] star in,starred_actors_inv,starred_actors_inv
+726,what movies was [Oscar Polk] an actor in,starred_actors_inv,starred_actors_inv
+727,what does [Daniel Gillies] appear in,starred_actors_inv,starred_actors_inv
+728,what does [Dida Diafat] act in,starred_actors_inv,starred_actors_inv
+729,[Ayesha Mohan] appears in which movies,starred_actors_inv,starred_actors_inv
+730,what films did [Tom Bosley] star in,starred_actors_inv,starred_actors_inv
+731,what films did [Cindy Pickett] act in,starred_actors_inv,starred_actors_inv
+732,[Eiko Koike] appears in which movies,starred_actors_inv,starred_actors_inv
+733,[Frank Oz] appears in which movies,starred_actors_inv,starred_actors_inv
+734,what movies was [Richard Tucker] an actor in,starred_actors_inv,starred_actors_inv
+735,what movies did [Tom Lycos] star in,starred_actors_inv,starred_actors_inv
+736,what movies did [Tom Hulce] star in,starred_actors_inv,starred_actors_inv
+737,what movies did [Hallee Hirsh] act in,starred_actors_inv,starred_actors_inv
+738,what does [Nancy Travis] appear in,starred_actors_inv,starred_actors_inv
+739,what movies did [Rory Culkin] star in,starred_actors_inv,starred_actors_inv
+740,what films did [John O'Mahony] star in,starred_actors_inv,starred_actors_inv
+741,what movies did [Walter Cronkite] star in,starred_actors_inv,starred_actors_inv
+742,what movies did [Tomoyasu Hotei] act in,starred_actors_inv,starred_actors_inv
+743,what does [Harold Lloyd] star in,starred_actors_inv,starred_actors_inv
+744,what movies did [Darren E. Burrows] act in,starred_actors_inv,starred_actors_inv
+745,what movies was [Doris Davenport] an actor in,starred_actors_inv,starred_actors_inv
+746,what movies was [Tim McGraw] an actor in,starred_actors_inv,starred_actors_inv
+747,what films did [Viggo Mortensen] star in,starred_actors_inv,starred_actors_inv
+748,[Martin Udvarnoky] appears in which movies,starred_actors_inv,starred_actors_inv
+749,what films did [Ian Cairns] act in,starred_actors_inv,starred_actors_inv
+750,what films did [Freddy Flores] act in,starred_actors_inv,starred_actors_inv
+751,what does [Richard White] act in,starred_actors_inv,starred_actors_inv
+752,what movies did [Tio Hardiman] act in,starred_actors_inv,starred_actors_inv
+753,what films did [Lucky McKee] star in,starred_actors_inv,starred_actors_inv
+754,what films did [Julien Bertheau] act in,starred_actors_inv,starred_actors_inv
+755,what movies did [Yvonne Clech] star in,starred_actors_inv,starred_actors_inv
+756,what movies did [Ruth Roman] star in,starred_actors_inv,starred_actors_inv
+757,what films does [Stanley Holloway] appear in,starred_actors_inv,starred_actors_inv
+758,what films did [Tony Todd] act in,starred_actors_inv,starred_actors_inv
+759,what movies did [Lance Armstrong] star in,starred_actors_inv,starred_actors_inv
+760,[John Waters] appears in which movies,starred_actors_inv,starred_actors_inv
+761,what movies was [Sally Yeh] an actor in,starred_actors_inv,starred_actors_inv
+762,what films did [Nicholas Kilbertus] star in,starred_actors_inv,starred_actors_inv
+763,what films did [Michael Rosenbaum] act in,starred_actors_inv,starred_actors_inv
+764,what movies was [John Cusack] an actor in,starred_actors_inv,starred_actors_inv
+765,what films did [Vera Zorina] star in,starred_actors_inv,starred_actors_inv
+766,what films did [Diego Luna] star in,starred_actors_inv,starred_actors_inv
+767,what films does [Ryan Gosling] appear in,starred_actors_inv,starred_actors_inv
+768,what films did [Ramon Novarro] star in,starred_actors_inv,starred_actors_inv
+769,what movies was [Judy Lynn] an actor in,starred_actors_inv,starred_actors_inv
+770,[Esther Gorintin] appears in which movies,starred_actors_inv,starred_actors_inv
+771,what films did [Adrian Zmed] star in,starred_actors_inv,starred_actors_inv
+772,what does [Deanna Russo] act in,starred_actors_inv,starred_actors_inv
+773,what movies was [Barbi Benton] an actor in,starred_actors_inv,starred_actors_inv
+774,what movies did [Ryan Merriman] act in,starred_actors_inv,starred_actors_inv
+775,what films did [Jenny Wright] act in,starred_actors_inv,starred_actors_inv
+776,what films did [Bartosz Gelner] star in,starred_actors_inv,starred_actors_inv
+777,what films does [John Heard] appear in,starred_actors_inv,starred_actors_inv
+778,what does [Alex Descas] act in,starred_actors_inv,starred_actors_inv
+779,what movies did [Season Hubley] act in,starred_actors_inv,starred_actors_inv
+780,what does [Leslie Bibb] act in,starred_actors_inv,starred_actors_inv
+781,what movies was [Ginny Simms] an actor in,starred_actors_inv,starred_actors_inv
+782,what movies did [Adam Roarke] act in,starred_actors_inv,starred_actors_inv
+783,what movies did [Stanley Ridges] star in,starred_actors_inv,starred_actors_inv
+784,what does [Robert Foxworth] act in,starred_actors_inv,starred_actors_inv
+785,what movies did [Julian Arahanga] star in,starred_actors_inv,starred_actors_inv
+786,what films did [Kenneth MacKenna] act in,starred_actors_inv,starred_actors_inv
+787,what movies did [Hope Lange] star in,starred_actors_inv,starred_actors_inv
+788,what movies was [Nick Broomfield] an actor in,starred_actors_inv,starred_actors_inv
+789,what does [Walter Steiner] act in,starred_actors_inv,starred_actors_inv
+790,what does [Kristanna Loken] appear in,starred_actors_inv,starred_actors_inv
+791,what does [Monica Bellucci] star in,starred_actors_inv,starred_actors_inv
+792,what movies did [Gregory Walcott] star in,starred_actors_inv,starred_actors_inv
+793,what movies did [Don Megowan] act in,starred_actors_inv,starred_actors_inv
+794,what does [Elke Sommer] appear in,starred_actors_inv,starred_actors_inv
+795,what films did [Sandra Bernhard] star in,starred_actors_inv,starred_actors_inv
+796,what movies did [Liesel Matthews] star in,starred_actors_inv,starred_actors_inv
+797,what movies was [Laura San Giacomo] an actor in,starred_actors_inv,starred_actors_inv
+798,what does [Brent Gorski] star in,starred_actors_inv,starred_actors_inv
+799,what movies was [Margaret Cho] an actor in,starred_actors_inv,starred_actors_inv
+800,what does [Erika Christensen] appear in,starred_actors_inv,starred_actors_inv
+801,what films did [Carol Kane] star in,starred_actors_inv,starred_actors_inv
+802,what films did [Emile Hirsch] star in,starred_actors_inv,starred_actors_inv
+803,what movies did [Mary Steenburgen] act in,starred_actors_inv,starred_actors_inv
+804,what movies did [Nick Mancuso] act in,starred_actors_inv,starred_actors_inv
+805,what movies did [Norman Kerry] star in,starred_actors_inv,starred_actors_inv
+806,what films did [Buzzy Linhart] star in,starred_actors_inv,starred_actors_inv
+807,what does [Faye Emerson] act in,starred_actors_inv,starred_actors_inv
+808,what movies was [Zachery Ty Bryan] an actor in,starred_actors_inv,starred_actors_inv
+809,what does [Ron Starr] star in,starred_actors_inv,starred_actors_inv
+810,what films does [Hans Conried] appear in,starred_actors_inv,starred_actors_inv
+811,what films does [David Keith] appear in,starred_actors_inv,starred_actors_inv
+812,what does [John Canada Terrell] star in,starred_actors_inv,starred_actors_inv
+813,what does [Chase Ellison] star in,starred_actors_inv,starred_actors_inv
+814,what movies did [Marilyn Manning] star in,starred_actors_inv,starred_actors_inv
+815,what movies was [Annie Golden] an actor in,starred_actors_inv,starred_actors_inv
+816,what does [Akira Kurosawa] appear in,starred_actors_inv,starred_actors_inv
+817,what movies did [Harry Earles] star in,starred_actors_inv,starred_actors_inv
+818,what does [Rebecca Balding] star in,starred_actors_inv,starred_actors_inv
+819,what films did [Joe Silver] act in,starred_actors_inv,starred_actors_inv
+820,what films did [Dustin Nguyen] star in,starred_actors_inv,starred_actors_inv
+821,what movies did [Charles Fleischer] act in,starred_actors_inv,starred_actors_inv
+822,what movies was [Patricia Wettig] an actor in,starred_actors_inv,starred_actors_inv
+823,what films does [Juliet Prowse] appear in,starred_actors_inv,starred_actors_inv
+824,[Hoji Fortuna] appears in which movies,starred_actors_inv,starred_actors_inv
+825,what does [Glenn Tryon] appear in,starred_actors_inv,starred_actors_inv
+826,what movies was [Elizabeth McGovern] an actor in,starred_actors_inv,starred_actors_inv
+827,what films did [Fabrício Boliveira] star in,starred_actors_inv,starred_actors_inv
+828,what does [Bob Hope] appear in,starred_actors_inv,starred_actors_inv
+829,[Eric Wareheim] appears in which movies,starred_actors_inv,starred_actors_inv
+830,what does [Amza Pellea] act in,starred_actors_inv,starred_actors_inv
+831,what does [Eric Portman] star in,starred_actors_inv,starred_actors_inv
+832,what films did [Marion Bailey] star in,starred_actors_inv,starred_actors_inv
+833,what movies was [King Donovan] an actor in,starred_actors_inv,starred_actors_inv
+834,what does [Cliff Robertson] appear in,starred_actors_inv,starred_actors_inv
+835,what films does [Paul Anderson] appear in,starred_actors_inv,starred_actors_inv
+836,what movies did [Thorley Walters] act in,starred_actors_inv,starred_actors_inv
+837,what movies was [David McLean] an actor in,starred_actors_inv,starred_actors_inv
+838,[Meghan Ory] appears in which movies,starred_actors_inv,starred_actors_inv
+839,[Roger Moore] appears in which movies,starred_actors_inv,starred_actors_inv
+840,[Mario Silva] appears in which movies,starred_actors_inv,starred_actors_inv
+841,what movies did [Julianne Hough] star in,starred_actors_inv,starred_actors_inv
+842,what does [David Thornton] act in,starred_actors_inv,starred_actors_inv
+843,what movies was [Hilda Borgström] an actor in,starred_actors_inv,starred_actors_inv
+844,[John Conor Brooke] appears in which movies,starred_actors_inv,starred_actors_inv
+845,what does [Milo Ventimiglia] star in,starred_actors_inv,starred_actors_inv
+846,what does [Dinah Shore] act in,starred_actors_inv,starred_actors_inv
+847,what movies did [Masashi Endô] star in,starred_actors_inv,starred_actors_inv
+848,what does [Morgan Spurlock] star in,starred_actors_inv,starred_actors_inv
+849,[Evan Richards] appears in which movies,starred_actors_inv,starred_actors_inv
+850,what movies did [Emmanuel Mouret] act in,starred_actors_inv,starred_actors_inv
+851,what films does [Dick Foran] appear in,starred_actors_inv,starred_actors_inv
+852,what does [Paula Jai Parker] star in,starred_actors_inv,starred_actors_inv
+853,what movies did [Yvonne Monlaur] act in,starred_actors_inv,starred_actors_inv
+854,what films did [Jon Huertas] star in,starred_actors_inv,starred_actors_inv
+855,what does [Spencer Treat Clark] appear in,starred_actors_inv,starred_actors_inv
+856,what movies did [Dan Stevens] star in,starred_actors_inv,starred_actors_inv
+857,[Orlando Jones] appears in which movies,starred_actors_inv,starred_actors_inv
+858,what movies did [Joan Baez] act in,starred_actors_inv,starred_actors_inv
+859,what films did [Paul Robeson] star in,starred_actors_inv,starred_actors_inv
+860,what movies was [Cathryn Harrison] an actor in,starred_actors_inv,starred_actors_inv
+861,what films did [Peggy Ashcroft] act in,starred_actors_inv,starred_actors_inv
+862,what films did [Shaquille O'Neal] act in,starred_actors_inv,starred_actors_inv
+863,what does [Joseph Lawrence] appear in,starred_actors_inv,starred_actors_inv
+864,[Marie Avgeropoulos] appears in which movies,starred_actors_inv,starred_actors_inv
+865,what does [Adrian Bower] appear in,starred_actors_inv,starred_actors_inv
+866,what movies did [Christopher Collet] act in,starred_actors_inv,starred_actors_inv
+867,what does [Carl Reiner] star in,starred_actors_inv,starred_actors_inv
+868,[Barry Foster] appears in which movies,starred_actors_inv,starred_actors_inv
+869,what movies was [Hristos Passalis] an actor in,starred_actors_inv,starred_actors_inv
+870,what movies did [Barbara Sheldon] act in,starred_actors_inv,starred_actors_inv
+871,what does [John Boles] act in,starred_actors_inv,starred_actors_inv
+872,what does [Phyllis Barry] act in,starred_actors_inv,starred_actors_inv
+873,what movies did [Fiona Dourif] star in,starred_actors_inv,starred_actors_inv
+874,what films did [Betsy Brantley] act in,starred_actors_inv,starred_actors_inv
+875,what films did [Ben Chaplin] act in,starred_actors_inv,starred_actors_inv
+876,what movies did [Rajeev Khandelwal] act in,starred_actors_inv,starred_actors_inv
+877,what does [Julie Delpy] act in,starred_actors_inv,starred_actors_inv
+878,what films did [Mary Welch] star in,starred_actors_inv,starred_actors_inv
+879,which movie was [John Pasquin] the director for,directed_by_inv,directed_by_inv
+880,what was [Rowland Brown] the director of,directed_by_inv,directed_by_inv
+881,which movies did [Aram Avakian] direct,directed_by_inv,directed_by_inv
+882,which films did [Lloyd Ingraham] direct,directed_by_inv,directed_by_inv
+883,what films did [Israel Horovitz] direct,directed_by_inv,directed_by_inv
+884,what was [Shane Acker] the director of,directed_by_inv,directed_by_inv
+885,can you name a film directed by [Paul Wendkos],directed_by_inv,directed_by_inv
+886,[Zack Snyder] was the director of which films,directed_by_inv,directed_by_inv
+887,which films did [John Rich] direct,directed_by_inv,directed_by_inv
+888,which movie was [Priyadarshan] the director for,directed_by_inv,directed_by_inv
+889,what films did [Philippe Garrel] direct,directed_by_inv,directed_by_inv
+890,[James B. Clark] was the director on which movies,directed_by_inv,directed_by_inv
+891,which movie was [E. Elias Merhige] the director for,directed_by_inv,directed_by_inv
+892,[Robert Resnikoff] was the director of which movies,directed_by_inv,directed_by_inv
+893,what is a film directed by [Eddie Murphy],directed_by_inv,directed_by_inv
+894,which films did [Johnny Kevorkian] direct,directed_by_inv,directed_by_inv
+895,what movies did [Albert Zugsmith] direct,directed_by_inv,directed_by_inv
+896,which movies did [Vincent Kok] direct,directed_by_inv,directed_by_inv
+897,[David Lean] was the director on which movies,directed_by_inv,directed_by_inv
+898,[Randall Miller] was the director of which movies,directed_by_inv,directed_by_inv
+899,what movies did [Sidney Sheldon] direct,directed_by_inv,directed_by_inv
+900,[John Swanbeck] was the director on which movies,directed_by_inv,directed_by_inv
+901,[Shekhar Kapur] was the director on which movies,directed_by_inv,directed_by_inv
+902,what films did [Peter Schønau Fog] direct,directed_by_inv,directed_by_inv
+903,what did [Garth Jennings] direct,directed_by_inv,directed_by_inv
+904,[Joël Séria] directed which movies,directed_by_inv,directed_by_inv
+905,what films did [Merrill Pye] direct,directed_by_inv,directed_by_inv
+906,which films did [Brian Gibson] direct,directed_by_inv,directed_by_inv
+907,which movie was [Toshio Lee] the director for,directed_by_inv,directed_by_inv
+908,can you name a film directed by [Stuart Ortiz],directed_by_inv,directed_by_inv
+909,what movies did [Andrzej Bartkowiak] direct,directed_by_inv,directed_by_inv
+910,what movies did [Dennis Widmyer] direct,directed_by_inv,directed_by_inv
+911,which films did [James Duffy] direct,directed_by_inv,directed_by_inv
+912,can you name a film directed by [Shirley MacLaine],directed_by_inv,directed_by_inv
+913,which films did [Michael Mohan] direct,directed_by_inv,directed_by_inv
+914,which films did [Jerome Robbins] direct,directed_by_inv,directed_by_inv
+915,[Stuart Cooper] was the director of which films,directed_by_inv,directed_by_inv
+916,which movies did [José Henrique Fonseca] direct,directed_by_inv,directed_by_inv
+917,which movies did [Mervyn LeRoy] direct,directed_by_inv,directed_by_inv
+918,which films did [Lee H. Katzin] direct,directed_by_inv,directed_by_inv
+919,which films did [George C. Wolfe] direct,directed_by_inv,directed_by_inv
+920,can you name a film directed by [Ernest Thompson],directed_by_inv,directed_by_inv
+921,which films did [Anubhav Sinha] direct,directed_by_inv,directed_by_inv
+922,what did [Ismail Merchant] direct,directed_by_inv,directed_by_inv
+923,which movies did [Christopher Erskin] direct,directed_by_inv,directed_by_inv
+924,what was [Dave Green] the director of,directed_by_inv,directed_by_inv
+925,[Frank Marshall] was the director on which movies,directed_by_inv,directed_by_inv
+926,which films did [Clay Westervelt] direct,directed_by_inv,directed_by_inv
+927,can you name a film directed by [Ruggero Deodato],directed_by_inv,directed_by_inv
+928,what was [David Miller] the director of,directed_by_inv,directed_by_inv
+929,[Lisa Langseth] directed which films,directed_by_inv,directed_by_inv
+930,what was [Rich Christiano] the director of,directed_by_inv,directed_by_inv
+931,what is a film directed by [Hiroshi Inagaki],directed_by_inv,directed_by_inv
+932,what is a film directed by [Robert Meyer Burnett],directed_by_inv,directed_by_inv
+933,which movie was [Shinji Aramaki] the director for,directed_by_inv,directed_by_inv
+934,[Seth Michael Donsky] directed which movies,directed_by_inv,directed_by_inv
+935,which films did [Luis Prieto] direct,directed_by_inv,directed_by_inv
+936,which movie was [Catherine Hardwicke] the director for,directed_by_inv,directed_by_inv
+937,can you name a film directed by [Ron Scalpello],directed_by_inv,directed_by_inv
+938,[David Mingay] was the director of which films,directed_by_inv,directed_by_inv
+939,what movies did [David Mandel] direct,directed_by_inv,directed_by_inv
+940,what did [Djibril Diop Mambéty] direct,directed_by_inv,directed_by_inv
+941,[Peter Madsen] directed which films,directed_by_inv,directed_by_inv
+942,can you name a film directed by [Nikolai Müllerschön],directed_by_inv,directed_by_inv
+943,[Robert Klane] was the director on which movies,directed_by_inv,directed_by_inv
+944,what did [John Lasseter] direct,directed_by_inv,directed_by_inv
+945,[Leslie Iwerks] directed which movies,directed_by_inv,directed_by_inv
+946,[Icíar Bollaín] was the director of which films,directed_by_inv,directed_by_inv
+947,[Jim Jarmusch] was the director of which movies,directed_by_inv,directed_by_inv
+948,which films did [Robert Shaye] direct,directed_by_inv,directed_by_inv
+949,which movies did [Ti West] direct,directed_by_inv,directed_by_inv
+950,what did [Susanna Styron] direct,directed_by_inv,directed_by_inv
+951,[Mick Jackson] directed which movies,directed_by_inv,directed_by_inv
+952,which films did [Ib Melchior] direct,directed_by_inv,directed_by_inv
+953,[Lamont Johnson] was the director of which films,directed_by_inv,directed_by_inv
+954,which films did [Chris Eigeman] direct,directed_by_inv,directed_by_inv
+955,which movies did [Vicente Amorim] direct,directed_by_inv,directed_by_inv
+956,[James Whale] was the director of which films,directed_by_inv,directed_by_inv
+957,which movies did [Chris Roberts] direct,directed_by_inv,directed_by_inv
+958,which movies did [Jérôme Enrico] direct,directed_by_inv,directed_by_inv
+959,which films did [Nora Ephron] direct,directed_by_inv,directed_by_inv
+960,[Eric Byler] directed which films,directed_by_inv,directed_by_inv
+961,which films did [Stephen Tolkin] direct,directed_by_inv,directed_by_inv
+962,which films did [Katherine Brooks] direct,directed_by_inv,directed_by_inv
+963,[Wayne Holloway] was the director on which movies,directed_by_inv,directed_by_inv
+964,which films did [Elliot Silverstein] direct,directed_by_inv,directed_by_inv
+965,[Dan Gildark] was the director of which movies,directed_by_inv,directed_by_inv
+966,[Thom Andersen] was the director of which films,directed_by_inv,directed_by_inv
+967,what movies did [Aditya Datt] direct,directed_by_inv,directed_by_inv
+968,what was [Wayne Wang] the director of,directed_by_inv,directed_by_inv
+969,[Clare Kilner] was the director on which movies,directed_by_inv,directed_by_inv
+970,what movies did [Victor Fleming] direct,directed_by_inv,directed_by_inv
+971,what was [Carlo Verdone] the director of,directed_by_inv,directed_by_inv
+972,which films did [Fons Rademakers] direct,directed_by_inv,directed_by_inv
+973,what movies did [Stephen Fung] direct,directed_by_inv,directed_by_inv
+974,what films did [Dave Boyle] direct,directed_by_inv,directed_by_inv
+975,which films did [Jim Sharman] direct,directed_by_inv,directed_by_inv
+976,[Geoff Moore] directed which movies,directed_by_inv,directed_by_inv
+977,[Joshua Brand] directed which films,directed_by_inv,directed_by_inv
+978,[Scott Kalvert] directed which movies,directed_by_inv,directed_by_inv
+979,what films did [John Emerson] direct,directed_by_inv,directed_by_inv
+980,what is a film directed by [Tarik Saleh],directed_by_inv,directed_by_inv
+981,which films did [Ida Lupino] direct,directed_by_inv,directed_by_inv
+982,[Irwin Allen] was the director of which movies,directed_by_inv,directed_by_inv
+983,[John Carl Buechler] was the director of which movies,directed_by_inv,directed_by_inv
+984,[Carlos Saldanha] directed which films,directed_by_inv,directed_by_inv
+985,[Masaaki Yuasa] was the director on which movies,directed_by_inv,directed_by_inv
+986,what movies did [Jason Bourque] direct,directed_by_inv,directed_by_inv
+987,[Philippe Grimond] directed which movies,directed_by_inv,directed_by_inv
+988,[Nick Gomez] was the director of which films,directed_by_inv,directed_by_inv
+989,which films did [Morgan Freeman] direct,directed_by_inv,directed_by_inv
+990,what films did [Phil Lord] direct,directed_by_inv,directed_by_inv
+991,[Giulio Petroni] was the director of which films,directed_by_inv,directed_by_inv
+992,[Felipe Lacerda] was the director of which movies,directed_by_inv,directed_by_inv
+993,what is a film directed by [Daniel Haller],directed_by_inv,directed_by_inv
+994,which movie was [Bakhtyar Khudojnazarov] the director for,directed_by_inv,directed_by_inv
+995,which films did [Sadao Yamanaka] direct,directed_by_inv,directed_by_inv
+996,[Malcolm Venville] directed which movies,directed_by_inv,directed_by_inv
+997,what movies did [Roger Avary] direct,directed_by_inv,directed_by_inv
+998,[Alex De Rakoff] directed which films,directed_by_inv,directed_by_inv
+999,[Henry Jaglom] directed which movies,directed_by_inv,directed_by_inv
+1000,which films did [Frank Borzage] direct,directed_by_inv,directed_by_inv
+1001,which movie was [Takao Okawara] the director for,directed_by_inv,directed_by_inv
+1002,[David Grovic] was the director of which films,directed_by_inv,directed_by_inv
+1003,can you name a film directed by [Steve Oedekerk],directed_by_inv,directed_by_inv
+1004,what movies did [Michele Placido] direct,directed_by_inv,directed_by_inv
+1005,what is a film directed by [Kirk R. Thatcher],directed_by_inv,directed_by_inv
+1006,which movies did [Joel David Moore] direct,directed_by_inv,directed_by_inv
+1007,which movies did [Terence Young] direct,directed_by_inv,directed_by_inv
+1008,[Matt McCormick] was the director on which movies,directed_by_inv,directed_by_inv
+1009,can you name a film directed by [Stephen Berra],directed_by_inv,directed_by_inv
+1010,what movies did [Michael Schroeder] direct,directed_by_inv,directed_by_inv
+1011,which movies did [David Boyd] direct,directed_by_inv,directed_by_inv
+1012,which movies did [Emilio Estevez] direct,directed_by_inv,directed_by_inv
+1013,which films did [Cordell Barker] direct,directed_by_inv,directed_by_inv
+1014,[Mona Achache] was the director on which movies,directed_by_inv,directed_by_inv
+1015,what films did [Leo McCarey] direct,directed_by_inv,directed_by_inv
+1016,[Thomas Jahn] directed which movies,directed_by_inv,directed_by_inv
+1017,which movies did [Geoffrey Wright] direct,directed_by_inv,directed_by_inv
+1018,what movies did [David Keating] direct,directed_by_inv,directed_by_inv
+1019,which films did [Jim Rash] direct,directed_by_inv,directed_by_inv
+1020,can you name a film directed by [Jason Michael Brescia],directed_by_inv,directed_by_inv
+1021,what did [Alan Crosland] direct,directed_by_inv,directed_by_inv
+1022,which films did [Robert Lee King] direct,directed_by_inv,directed_by_inv
+1023,[George Kaczender] was the director of which films,directed_by_inv,directed_by_inv
+1024,[Marika Beiku] was the director on which movies,directed_by_inv,directed_by_inv
+1025,what did [Tom McLoughlin] direct,directed_by_inv,directed_by_inv
+1026,what movies did [Kiefer Sutherland] direct,directed_by_inv,directed_by_inv
+1027,which films did [Coky Giedroyc] direct,directed_by_inv,directed_by_inv
+1028,what was [Naomi Foner] the director of,directed_by_inv,directed_by_inv
+1029,what films did [Tim Burstall] direct,directed_by_inv,directed_by_inv
+1030,which films did [Erik White] direct,directed_by_inv,directed_by_inv
+1031,which movies did [Daniel Petrie] direct,directed_by_inv,directed_by_inv
+1032,[Duncan Jones] directed which movies,directed_by_inv,directed_by_inv
+1033,[Alan Bridges] was the director on which movies,directed_by_inv,directed_by_inv
+1034,what was [Ricou Browning] the director of,directed_by_inv,directed_by_inv
+1035,what movies did [Stephen Elliott] direct,directed_by_inv,directed_by_inv
+1036,[Zak Bagans] was the director of which movies,directed_by_inv,directed_by_inv
+1037,what was [Franklin J. Schaffner] the director of,directed_by_inv,directed_by_inv
+1038,which films did [Rob Marshall] direct,directed_by_inv,directed_by_inv
+1039,[Mikel Conrad] was the director of which films,directed_by_inv,directed_by_inv
+1040,[Ed Decter] directed which films,directed_by_inv,directed_by_inv
+1041,[Rigoberto Castañeda] was the director on which movies,directed_by_inv,directed_by_inv
+1042,which films did [Robert Jan Westdijk] direct,directed_by_inv,directed_by_inv
+1043,[Robert J. Siegel] was the director on which movies,directed_by_inv,directed_by_inv
+1044,[John Fortenberry] directed which films,directed_by_inv,directed_by_inv
+1045,what was [Matthew Crouch] the director of,directed_by_inv,directed_by_inv
+1046,[Cate Shortland] was the director on which movies,directed_by_inv,directed_by_inv
+1047,[Michael Hoffman] directed which films,directed_by_inv,directed_by_inv
+1048,which movies did [Shamim Sarif] direct,directed_by_inv,directed_by_inv
+1049,what is a film directed by [John Barry],directed_by_inv,directed_by_inv
+1050,[Pierre Coffin] directed which films,directed_by_inv,directed_by_inv
+1051,what is a film directed by [Todd Field],directed_by_inv,directed_by_inv
+1052,[Richard Prince] directed which movies,directed_by_inv,directed_by_inv
+1053,which movies did [Feo Aladag] direct,directed_by_inv,directed_by_inv
+1054,which movie was [S.R. Bindler] the director for,directed_by_inv,directed_by_inv
+1055,which films did [Jason Connery] direct,directed_by_inv,directed_by_inv
+1056,[Stacie Passon] directed which films,directed_by_inv,directed_by_inv
+1057,[Jim Loach] was the director of which movies,directed_by_inv,directed_by_inv
+1058,what was [Miles Brandman] the director of,directed_by_inv,directed_by_inv
+1059,what did [Giuliano Montaldo] direct,directed_by_inv,directed_by_inv
+1060,[Art Linson] directed which movies,directed_by_inv,directed_by_inv
+1061,what did [Jonas Åkerlund] direct,directed_by_inv,directed_by_inv
+1062,[Steven Quale] was the director of which films,directed_by_inv,directed_by_inv
+1063,[Randa Haines] directed which movies,directed_by_inv,directed_by_inv
+1064,what did [Hiroshi Nishitani] direct,directed_by_inv,directed_by_inv
+1065,what did [Trevor Nunn] direct,directed_by_inv,directed_by_inv
+1066,what did [Jane Wagner] direct,directed_by_inv,directed_by_inv
+1067,[Olaf de Fleur Johannesson] was the director on which movies,directed_by_inv,directed_by_inv
+1068,what was [John Stevenson] the director of,directed_by_inv,directed_by_inv
+1069,what did [Andrew Fleming] direct,directed_by_inv,directed_by_inv
+1070,[Robert Lepage] was the director on which movies,directed_by_inv,directed_by_inv
+1071,what did [Vincent Gallo] direct,directed_by_inv,directed_by_inv
+1072,what films did [Laurent Heynemann] direct,directed_by_inv,directed_by_inv
+1073,[Wolfgang Petersen] was the director of which films,directed_by_inv,directed_by_inv
+1074,which movie was [Roland Suso Richter] the director for,directed_by_inv,directed_by_inv
+1075,what movies did [Steve Carr] direct,directed_by_inv,directed_by_inv
+1076,what films did [Mitja Okorn] direct,directed_by_inv,directed_by_inv
+1077,which films did [Justin Theroux] direct,directed_by_inv,directed_by_inv
+1078,[Sarah Watt] was the director on which movies,directed_by_inv,directed_by_inv
+1079,which films did [Gary Entin] direct,directed_by_inv,directed_by_inv
+1080,what did [Robert Iscove] direct,directed_by_inv,directed_by_inv
+1081,what was [Scott Colthorp] the director of,directed_by_inv,directed_by_inv
+1082,[Ken Annakin] was the director of which films,directed_by_inv,directed_by_inv
+1083,[Rob Weiss] was the director of which movies,directed_by_inv,directed_by_inv
+1084,[Sergio Martino] was the director of which films,directed_by_inv,directed_by_inv
+1085,[Peter Werner] was the director on which movies,directed_by_inv,directed_by_inv
+1086,what films did [Deran Sarafian] direct,directed_by_inv,directed_by_inv
+1087,what is a film directed by [Rob Reiner],directed_by_inv,directed_by_inv
+1088,[Fielder Cook] directed which films,directed_by_inv,directed_by_inv
+1089,[Floria Sigismondi] directed which films,directed_by_inv,directed_by_inv
+1090,[Tim Fehlbaum] was the director of which movies,directed_by_inv,directed_by_inv
+1091,which films did [Paul Greengrass] direct,directed_by_inv,directed_by_inv
+1092,what was [Mark Brian Smith] the director of,directed_by_inv,directed_by_inv
+1093,which movies did [Christopher Kenneally] direct,directed_by_inv,directed_by_inv
+1094,which films did [Dalton Trumbo] direct,directed_by_inv,directed_by_inv
+1095,what is a film directed by [John Paddy Carstairs],directed_by_inv,directed_by_inv
+1096,which movies did [Luis Valdez] direct,directed_by_inv,directed_by_inv
+1097,[Taru Mäkelä] was the director on which movies,directed_by_inv,directed_by_inv
+1098,[Chris Weitz] was the director of which films,directed_by_inv,directed_by_inv
+1099,what was [Lewis R. Foster] the director of,directed_by_inv,directed_by_inv
+1100,[Ewan McGregor] was the director of which films,directed_by_inv,directed_by_inv
+1101,which films did [Leon Joosen] direct,directed_by_inv,directed_by_inv
+1102,[Mark A. Lewis] directed which movies,directed_by_inv,directed_by_inv
+1103,what was [Richard Berry] the director of,directed_by_inv,directed_by_inv
+1104,which movies did [Jack Cardiff] direct,directed_by_inv,directed_by_inv
+1105,[Wolfgang Murnberger] directed which films,directed_by_inv,directed_by_inv
+1106,which films did [Joseph H. Lewis] direct,directed_by_inv,directed_by_inv
+1107,[Lajos Koltai] was the director of which movies,directed_by_inv,directed_by_inv
+1108,[Oleg Stepchenko] directed which movies,directed_by_inv,directed_by_inv
+1109,[Peter Howitt] was the director on which movies,directed_by_inv,directed_by_inv
+1110,[Jennifer Westfeldt] was the director of which films,directed_by_inv,directed_by_inv
+1111,[Tab Murphy] was the director of which films,directed_by_inv,directed_by_inv
+1112,[Benjamin Christensen] directed which movies,directed_by_inv,directed_by_inv
+1113,which movies did [Charles Robert Carner] direct,directed_by_inv,directed_by_inv
+1114,what did [Warwick Ross] direct,directed_by_inv,directed_by_inv
+1115,[Irving Rapper] directed which movies,directed_by_inv,directed_by_inv
+1116,which movie was [Greg MacGillivray] the director for,directed_by_inv,directed_by_inv
+1117,[Arturo Ripstein] was the director of which movies,directed_by_inv,directed_by_inv
+1118,[Ivan Reitman] was the director on which movies,directed_by_inv,directed_by_inv
+1119,what films did [Scott Thurman] direct,directed_by_inv,directed_by_inv
+1120,which films did [Amber Benson] direct,directed_by_inv,directed_by_inv
+1121,what did [Neil Diamond] direct,directed_by_inv,directed_by_inv
+1122,what is a film directed by [Larry Morey],directed_by_inv,directed_by_inv
+1123,which movies did [Luigi Cozzi] direct,directed_by_inv,directed_by_inv
+1124,what films did [Gillo Pontecorvo] direct,directed_by_inv,directed_by_inv
+1125,what is a film directed by [Greg Berlanti],directed_by_inv,directed_by_inv
+1126,[David Winkler] was the director of which films,directed_by_inv,directed_by_inv
+1127,[Vincenzo Natali] was the director of which movies,directed_by_inv,directed_by_inv
+1128,[Sam Fell] directed which films,directed_by_inv,directed_by_inv
+1129,which movie was [Matt Cimber] the director for,directed_by_inv,directed_by_inv
+1130,[Michael Miller] was the director of which movies,directed_by_inv,directed_by_inv
+1131,which movie was [Christopher Coppola] the director for,directed_by_inv,directed_by_inv
+1132,[Hafsteinn Gunnar Sigurðsson] was the director on which movies,directed_by_inv,directed_by_inv
+1133,what films did [Chuck Jones] direct,directed_by_inv,directed_by_inv
+1134,what did [David J. Burke] direct,directed_by_inv,directed_by_inv
+1135,[Lee Unkrich] was the director of which films,directed_by_inv,directed_by_inv
+1136,[Dan Rush] was the director of which movies,directed_by_inv,directed_by_inv
+1137,what did [Robert Parigi] direct,directed_by_inv,directed_by_inv
+1138,can you name a film directed by [Mel Gibson],directed_by_inv,directed_by_inv
+1139,which movie was [Savage Steve Holland] the director for,directed_by_inv,directed_by_inv
+1140,[David MacDonald] was the director on which movies,directed_by_inv,directed_by_inv
+1141,which movie was [Sam Pillsbury] the director for,directed_by_inv,directed_by_inv
+1142,[Curtis Hanson] directed which movies,directed_by_inv,directed_by_inv
+1143,[Ektoras Lygizos] directed which films,directed_by_inv,directed_by_inv
+1144,can you name a film directed by [Patricia Rozema],directed_by_inv,directed_by_inv
+1145,what was [Reinhard Klooss] the director of,directed_by_inv,directed_by_inv
+1146,what movies did [Lionel Jeffries] direct,directed_by_inv,directed_by_inv
+1147,what did [Marc Forster] direct,directed_by_inv,directed_by_inv
+1148,which movie was [Casper Andreas] the director for,directed_by_inv,directed_by_inv
+1149,[Kimberly Peirce] directed which films,directed_by_inv,directed_by_inv
+1150,[Tom Gilroy] directed which movies,directed_by_inv,directed_by_inv
+1151,what films did [John Maloof] direct,directed_by_inv,directed_by_inv
+1152,what did [Guillaume Gallienne] direct,directed_by_inv,directed_by_inv
+1153,what movies did [Bob Dolman] direct,directed_by_inv,directed_by_inv
+1154,[Eliza Hittman] was the director of which movies,directed_by_inv,directed_by_inv
+1155,[Hans Weingartner] directed which movies,directed_by_inv,directed_by_inv
+1156,[Phil Joanou] was the director of which movies,directed_by_inv,directed_by_inv
+1157,can you name a film directed by [Jamaa Fanaka],directed_by_inv,directed_by_inv
+1158,which movie was [Anthony Silverston] the director for,directed_by_inv,directed_by_inv
+1159,what movies did [Nelson McCormick] direct,directed_by_inv,directed_by_inv
+1160,what is a film directed by [Lara Shapiro],directed_by_inv,directed_by_inv
+1161,which films did [Steve Miner] direct,directed_by_inv,directed_by_inv
+1162,[Jason Lindsey] was the director on which movies,directed_by_inv,directed_by_inv
+1163,[Bruce A. Evans] directed which movies,directed_by_inv,directed_by_inv
+1164,which films did [Hugh Johnson] direct,directed_by_inv,directed_by_inv
+1165,which movies did [Arthur Marks] direct,directed_by_inv,directed_by_inv
+1166,what was [Stephen Norrington] the director of,directed_by_inv,directed_by_inv
+1167,what movies did [William Keighley] direct,directed_by_inv,directed_by_inv
+1168,which movie was [Kyle Schickner] the director for,directed_by_inv,directed_by_inv
+1169,what did [Lois Weber] direct,directed_by_inv,directed_by_inv
+1170,[Andy Fickman] was the director of which movies,directed_by_inv,directed_by_inv
+1171,what films did [Taika Waititi] direct,directed_by_inv,directed_by_inv
+1172,what movies did [Philip Haas] direct,directed_by_inv,directed_by_inv
+1173,what movies did [Danny Huston] direct,directed_by_inv,directed_by_inv
+1174,what was [Gerald Potterton] the director of,directed_by_inv,directed_by_inv
+1175,what was [John Gulager] the director of,directed_by_inv,directed_by_inv
+1176,what films did [H. Tjut Djalil] direct,directed_by_inv,directed_by_inv
+1177,[Drew Tobia] directed which films,directed_by_inv,directed_by_inv
+1178,what was [John Lemont] the director of,directed_by_inv,directed_by_inv
+1179,what is a film directed by [Assaf Bernstein],directed_by_inv,directed_by_inv
+1180,[Kevin Altieri] directed which films,directed_by_inv,directed_by_inv
+1181,what did [Andrew Currie] direct,directed_by_inv,directed_by_inv
+1182,can you name a film directed by [Dagur Kári],directed_by_inv,directed_by_inv
+1183,what movies did [Michelangelo Antonioni] direct,directed_by_inv,directed_by_inv
+1184,[Leigh Jason] directed which films,directed_by_inv,directed_by_inv
+1185,[Andrew Erwin] was the director on which movies,directed_by_inv,directed_by_inv
+1186,[H. Bruce Humberstone] was the director of which movies,directed_by_inv,directed_by_inv
+1187,[Michel Deville] directed which movies,directed_by_inv,directed_by_inv
+1188,what films did [Juan Pablo Rebella] direct,directed_by_inv,directed_by_inv
+1189,what movies did [Keisuke Kinoshita] direct,directed_by_inv,directed_by_inv
+1190,which movie was [Ari Taub] the director for,directed_by_inv,directed_by_inv
+1191,can you name a film directed by [Sean Baker],directed_by_inv,directed_by_inv
+1192,[William H. Macy] was the director of which films,directed_by_inv,directed_by_inv
+1193,which movie was [Maggie Carey] the director for,directed_by_inv,directed_by_inv
+1194,which films did [Adam Fields] direct,directed_by_inv,directed_by_inv
+1195,which movie was [Jesse V. Johnson] the director for,directed_by_inv,directed_by_inv
+1196,can you name a film directed by [John Huddles],directed_by_inv,directed_by_inv
+1197,[Kate Davis] was the director on which movies,directed_by_inv,directed_by_inv
+1198,can you name a film directed by [Monty Banks],directed_by_inv,directed_by_inv
+1199,[Jay Anania] directed which movies,directed_by_inv,directed_by_inv
+1200,which movie was [Luis Buñuel] the director for,directed_by_inv,directed_by_inv
+1201,can you name a film directed by [Eric Valette],directed_by_inv,directed_by_inv
+1202,[Mathieu Amalric] directed which films,directed_by_inv,directed_by_inv
+1203,can you name a film directed by [Christopher MacBride],directed_by_inv,directed_by_inv
+1204,which movies did [Christopher Scott Cherot] direct,directed_by_inv,directed_by_inv
+1205,can you name a film directed by [Dick Powell],directed_by_inv,directed_by_inv
+1206,[Lake Bell] was the director of which movies,directed_by_inv,directed_by_inv
+1207,which films did [Zev Berman] direct,directed_by_inv,directed_by_inv
+1208,[Howard Deutch] was the director on which movies,directed_by_inv,directed_by_inv
+1209,which films did [Robert Greenwald] direct,directed_by_inv,directed_by_inv
+1210,which movies did [David Mamet] direct,directed_by_inv,directed_by_inv
+1211,[Jessica Hausner] was the director of which films,directed_by_inv,directed_by_inv
+1212,which films did [Evan Glodell] direct,directed_by_inv,directed_by_inv
+1213,[Eric Heisserer] directed which films,directed_by_inv,directed_by_inv
+1214,what was [Yael Hersonski] the director of,directed_by_inv,directed_by_inv
+1215,which movies did [Paul Hoen] direct,directed_by_inv,directed_by_inv
+1216,what is a film directed by [Ava DuVernay],directed_by_inv,directed_by_inv
+1217,what was [Wesley Ruggles] the director of,directed_by_inv,directed_by_inv
+1218,[L.Q. Jones] was the director of which films,directed_by_inv,directed_by_inv
+1219,which movies did [Greg Mottola] direct,directed_by_inv,directed_by_inv
+1220,which films did [Lewis Seiler] direct,directed_by_inv,directed_by_inv
+1221,what did [Jules Bass] direct,directed_by_inv,directed_by_inv
+1222,can you name a film directed by [Peter Billingsley],directed_by_inv,directed_by_inv
+1223,which films did [Bo Widerberg] direct,directed_by_inv,directed_by_inv
+1224,what did [Cary Fukunaga] direct,directed_by_inv,directed_by_inv
+1225,[Luis García Berlanga] was the director on which movies,directed_by_inv,directed_by_inv
+1226,[Michael Rymer] was the director of which movies,directed_by_inv,directed_by_inv
+1227,what did [Turner Clay] direct,directed_by_inv,directed_by_inv
+1228,[Martin Zandvliet] directed which movies,directed_by_inv,directed_by_inv
+1229,which movie was [Mark Rosman] the director for,directed_by_inv,directed_by_inv
+1230,what movies did [Wesley Strick] direct,directed_by_inv,directed_by_inv
+1231,what did [Charles Kaufman] direct,directed_by_inv,directed_by_inv
+1232,[Joshua Michael Stern] was the director of which movies,directed_by_inv,directed_by_inv
+1233,what did [Gilles Bourdos] direct,directed_by_inv,directed_by_inv
+1234,[Ben Ramsey] was the director on which movies,directed_by_inv,directed_by_inv
+1235,[Salim Akil] was the director on which movies,directed_by_inv,directed_by_inv
+1236,can you name a film directed by [Joan Micklin Silver],directed_by_inv,directed_by_inv
+1237,what did [Férid Boughedir] direct,directed_by_inv,directed_by_inv
+1238,[Nanette Burstein] was the director of which movies,directed_by_inv,directed_by_inv
+1239,which films did [Kazui Nihonmatsu] direct,directed_by_inv,directed_by_inv
+1240,which movie was [Paul Brickman] the director for,directed_by_inv,directed_by_inv
+1241,which movies did [Rithy Panh] direct,directed_by_inv,directed_by_inv
+1242,[Sam Kadi] directed which movies,directed_by_inv,directed_by_inv
+1243,which movies did [Jim Abrahams] direct,directed_by_inv,directed_by_inv
+1244,what did [Carlos Diegues] direct,directed_by_inv,directed_by_inv
+1245,what was [Nancy Meckler] the director of,directed_by_inv,directed_by_inv
+1246,what was [Gaspar Noé] the director of,directed_by_inv,directed_by_inv
+1247,which films did [Tom DiCillo] direct,directed_by_inv,directed_by_inv
+1248,which movie was [Tom Brady] the director for,directed_by_inv,directed_by_inv
+1249,which movie was [Lance Comfort] the director for,directed_by_inv,directed_by_inv
+1250,[David Foenkinos] was the director on which movies,directed_by_inv,directed_by_inv
+1251,which movies did [Kevin Bacon] direct,directed_by_inv,directed_by_inv
+1252,which movie was [Cameron Cairnes] the director for,directed_by_inv,directed_by_inv
+1253,can you name a film directed by [Charles Haid],directed_by_inv,directed_by_inv
+1254,which films did [Todd Verow] direct,directed_by_inv,directed_by_inv
+1255,what was [Harry Baweja] the director of,directed_by_inv,directed_by_inv
+1256,what is a film directed by [Antonio Campos],directed_by_inv,directed_by_inv
+1257,what did [Fred Cavayé] direct,directed_by_inv,directed_by_inv
+1258,what did [Thomas N'Gijol] direct,directed_by_inv,directed_by_inv
+1259,[Sandy Tung] directed which movies,directed_by_inv,directed_by_inv
+1260,[Wes Anderson] was the director on which movies,directed_by_inv,directed_by_inv
+1261,which films did [Gustavo Loza] direct,directed_by_inv,directed_by_inv
+1262,what is a film directed by [João César Monteiro],directed_by_inv,directed_by_inv
+1263,[Tom Gustafson] directed which films,directed_by_inv,directed_by_inv
+1264,what is a film directed by [Carlos Marcovich],directed_by_inv,directed_by_inv
+1265,[Yash Chopra] was the director of which films,directed_by_inv,directed_by_inv
+1266,[Patrick Creadon] was the director on which movies,directed_by_inv,directed_by_inv
+1267,[Henry Selick] was the director of which movies,directed_by_inv,directed_by_inv
+1268,[Baltasar Kormákur] was the director on which movies,directed_by_inv,directed_by_inv
+1269,[Jackie Oudney] directed which movies,directed_by_inv,directed_by_inv
+1270,which films did [David Koepp] direct,directed_by_inv,directed_by_inv
+1271,[Robert Kenner] directed which movies,directed_by_inv,directed_by_inv
+1272,which films did [Drew Barrymore] direct,directed_by_inv,directed_by_inv
+1273,can you name a film directed by [Marc Abraham],directed_by_inv,directed_by_inv
+1274,[Buck Henry] was the director of which films,directed_by_inv,directed_by_inv
+1275,[Sharon Maguire] was the director of which films,directed_by_inv,directed_by_inv
+1276,[Manmohan Desai] was the director on which movies,directed_by_inv,directed_by_inv
+1277,can you name a film directed by [Gary Winick],directed_by_inv,directed_by_inv
+1278,which films did [Vladan Nikolic] direct,directed_by_inv,directed_by_inv
+1279,what films did [Daisy von Scherler Mayer] direct,directed_by_inv,directed_by_inv
+1280,can you name a film directed by [Edward Buzzell],directed_by_inv,directed_by_inv
+1281,what is a film directed by [Ruth Orkin],directed_by_inv,directed_by_inv
+1282,which movie was [David Schneider] the director for,directed_by_inv,directed_by_inv
+1283,what was [Graeme Clifford] the director of,directed_by_inv,directed_by_inv
+1284,which films did [James Hanlon] direct,directed_by_inv,directed_by_inv
+1285,[Rene Daalder] was the director of which films,directed_by_inv,directed_by_inv
+1286,which films did [Lynne Ramsay] direct,directed_by_inv,directed_by_inv
+1287,can you name a film directed by [Andrew Jarecki],directed_by_inv,directed_by_inv
+1288,[Will Bakke] was the director of which movies,directed_by_inv,directed_by_inv
+1289,what movies did [Zalman King] direct,directed_by_inv,directed_by_inv
+1290,[Robert F. Hill] was the director on which movies,directed_by_inv,directed_by_inv
+1291,can you name a film directed by [Taylor Hackford],directed_by_inv,directed_by_inv
+1292,which films did [Mark Peploe] direct,directed_by_inv,directed_by_inv
+1293,which movies did [John R. Leonetti] direct,directed_by_inv,directed_by_inv
+1294,[Megan Griffiths] directed which movies,directed_by_inv,directed_by_inv
+1295,what movies did [Bernt Amadeus Capra] direct,directed_by_inv,directed_by_inv
+1296,which movies did [Takashi Yamazaki] direct,directed_by_inv,directed_by_inv
+1297,which movie was [Efram Potelle] the director for,directed_by_inv,directed_by_inv
+1298,what films did [Tassos Boulmetis] direct,directed_by_inv,directed_by_inv
+1299,what was [Henning Carlsen] the director of,directed_by_inv,directed_by_inv
+1300,[Alan J. Pakula] was the director on which movies,directed_by_inv,directed_by_inv
+1301,what films did [Joe Russo] direct,directed_by_inv,directed_by_inv
+1302,[Allison Anders] was the director on which movies,directed_by_inv,directed_by_inv
+1303,[Larry Charles] was the director of which films,directed_by_inv,directed_by_inv
+1304,what films did [Daniel Zelik Berk] direct,directed_by_inv,directed_by_inv
+1305,can you name a film directed by [Bryan Buckley],directed_by_inv,directed_by_inv
+1306,[Sherry Hormann] directed which movies,directed_by_inv,directed_by_inv
+1307,[Erik Løchen] was the director on which movies,directed_by_inv,directed_by_inv
+1308,which films did [Marco Risi] direct,directed_by_inv,directed_by_inv
+1309,what was [Seijun Suzuki] the director of,directed_by_inv,directed_by_inv
+1310,which films did [Antonia Bird] direct,directed_by_inv,directed_by_inv
+1311,[Costa Botes] was the director of which films,directed_by_inv,directed_by_inv
+1312,which films did [Abhinay Deo] direct,directed_by_inv,directed_by_inv
+1313,[Rob Stefaniuk] directed which films,directed_by_inv,directed_by_inv
+1314,what movies did [Stephen Daldry] direct,directed_by_inv,directed_by_inv
+1315,what films did [Theodore Reed] direct,directed_by_inv,directed_by_inv
+1316,what was [Just Jaeckin] the director of,directed_by_inv,directed_by_inv
+1317,[Masaki Kobayashi] directed which movies,directed_by_inv,directed_by_inv
+1318,which films did [Felix E. Feist] direct,directed_by_inv,directed_by_inv
+1319,which movies did [Marina de Van] direct,directed_by_inv,directed_by_inv
+1320,which films did [Philip Rosenthal] direct,directed_by_inv,directed_by_inv
+1321,what was [Curtis Harrington] the director of,directed_by_inv,directed_by_inv
+1322,[Jody Hill] was the director on which movies,directed_by_inv,directed_by_inv
+1323,[Lloyd Bacon] directed which movies,directed_by_inv,directed_by_inv
+1324,which films did [Nico Mastorakis] direct,directed_by_inv,directed_by_inv
+1325,what did [Alex Proyas] direct,directed_by_inv,directed_by_inv
+1326,[Darrell Roodt] was the director on which movies,directed_by_inv,directed_by_inv
+1327,[Busby Berkeley] was the director on which movies,directed_by_inv,directed_by_inv
+1328,[Noel Tan] was the director of which movies,directed_by_inv,directed_by_inv
+1329,what films did [John Hyams] direct,directed_by_inv,directed_by_inv
+1330,[Mick Davis] directed which movies,directed_by_inv,directed_by_inv
+1331,[Moshé Mizrahi] directed which films,directed_by_inv,directed_by_inv
+1332,what movies did [Nima Nourizadeh] direct,directed_by_inv,directed_by_inv
+1333,[Julie Dash] directed which movies,directed_by_inv,directed_by_inv
+1334,which films did [Juan Carlos Tabío] direct,directed_by_inv,directed_by_inv
+1335,[Lee Friedlander] directed which films,directed_by_inv,directed_by_inv
+1336,[Steve Purcell] was the director on which movies,directed_by_inv,directed_by_inv
+1337,what is a film directed by [Oskar Roehler],directed_by_inv,directed_by_inv
+1338,what is a film directed by [Vincente Minnelli],directed_by_inv,directed_by_inv
+1339,[Jamie Thraves] directed which movies,directed_by_inv,directed_by_inv
+1340,[Hugh Wilson] was the director of which movies,directed_by_inv,directed_by_inv
+1341,what movies did [Jim Sonzero] direct,directed_by_inv,directed_by_inv
+1342,which films did [Marielle Heller] direct,directed_by_inv,directed_by_inv
+1343,what was [Andrew Mollo] the director of,directed_by_inv,directed_by_inv
+1344,[James Wong] was the director of which films,directed_by_inv,directed_by_inv
+1345,what movies did [Gordon Chan] direct,directed_by_inv,directed_by_inv
+1346,what is a film directed by [Jonathan Berman],directed_by_inv,directed_by_inv
+1347,[Paul Rachman] directed which movies,directed_by_inv,directed_by_inv
+1348,what is a film directed by [Anthony Russo],directed_by_inv,directed_by_inv
+1349,[Tom Gries] directed which films,directed_by_inv,directed_by_inv
+1350,can you name a film directed by [Emanuele Crialese],directed_by_inv,directed_by_inv
+1351,[Baran bo Odar] directed which movies,directed_by_inv,directed_by_inv
+1352,which movie was [Tony Randel] the director for,directed_by_inv,directed_by_inv
+1353,what did [Michel Gondry] direct,directed_by_inv,directed_by_inv
+1354,[Derek Lee] directed which movies,directed_by_inv,directed_by_inv
+1355,what was [Thanasis Papathanasiou] the director of,directed_by_inv,directed_by_inv
+1356,what is a film directed by [Mark Tonderai],directed_by_inv,directed_by_inv
+1357,[Frank Lloyd] was the director of which movies,directed_by_inv,directed_by_inv
+1358,[Ashutosh Gowariker] directed which films,directed_by_inv,directed_by_inv
+1359,[Eugene Corr] was the director of which films,directed_by_inv,directed_by_inv
+1360,[Indra Kumar] directed which movies,directed_by_inv,directed_by_inv
+1361,which movies did [Simon West] direct,directed_by_inv,directed_by_inv
+1362,[Tim Whelan] directed which films,directed_by_inv,directed_by_inv
+1363,what did [George Mendeluk] direct,directed_by_inv,directed_by_inv
+1364,[Robert Krause] was the director of which films,directed_by_inv,directed_by_inv
+1365,can you name a film directed by [Ryszard Bugajski],directed_by_inv,directed_by_inv
+1366,what films did [Parkpoom Wongpoom] direct,directed_by_inv,directed_by_inv
+1367,[Jörg Buttgereit] was the director of which movies,directed_by_inv,directed_by_inv
+1368,[Simon Kaijser] was the director of which films,directed_by_inv,directed_by_inv
+1369,[Gabriela Cowperthwaite] was the director on which movies,directed_by_inv,directed_by_inv
+1370,which films did [Troy Miller] direct,directed_by_inv,directed_by_inv
+1371,[Michael Mayer] directed which movies,directed_by_inv,directed_by_inv
+1372,what did [Toshio Masuda] direct,directed_by_inv,directed_by_inv
+1373,what was [Rodrigo Cortés] the director of,directed_by_inv,directed_by_inv
+1374,what is a film directed by [Keenen Ivory Wayans],directed_by_inv,directed_by_inv
+1375,what is a film directed by [Joel Hopkins],directed_by_inv,directed_by_inv
+1376,which films did [Kat Coiro] direct,directed_by_inv,directed_by_inv
+1377,which movie was [Helen Hunt] the director for,directed_by_inv,directed_by_inv
+1378,what films did [George Miller] direct,directed_by_inv,directed_by_inv
+1379,which films did [Yoshikazu Yasuhiko] direct,directed_by_inv,directed_by_inv
+1380,what did [Douglas Camfield] direct,directed_by_inv,directed_by_inv
+1381,[Andrew Bergman] was the director of which movies,directed_by_inv,directed_by_inv
+1382,[Ariel Schulman] was the director of which movies,directed_by_inv,directed_by_inv
+1383,what movies did [Alex van Warmerdam] direct,directed_by_inv,directed_by_inv
+1384,[Gordon Douglas] was the director of which movies,directed_by_inv,directed_by_inv
+1385,which films did [Scott Coffey] direct,directed_by_inv,directed_by_inv
+1386,what is a film directed by [David Hillenbrand],directed_by_inv,directed_by_inv
+1387,what films did [Ben Wheatley] direct,directed_by_inv,directed_by_inv
+1388,[Beth Schacter] directed which films,directed_by_inv,directed_by_inv
+1389,can you name a film directed by [William Shatner],directed_by_inv,directed_by_inv
+1390,[Jack Nicholson] directed which films,directed_by_inv,directed_by_inv
+1391,[Roger Kay] was the director of which movies,directed_by_inv,directed_by_inv
+1392,what did [William Witney] direct,directed_by_inv,directed_by_inv
+1393,what did [Evan Dunsky] direct,directed_by_inv,directed_by_inv
+1394,[Mehdi Ben Attia] directed which films,directed_by_inv,directed_by_inv
+1395,[Michael Rosenbaum] was the director of which movies,directed_by_inv,directed_by_inv
+1396,what was [Heywood Gould] the director of,directed_by_inv,directed_by_inv
+1397,what did [Victor Heerman] direct,directed_by_inv,directed_by_inv
+1398,what did [Kurt Voss] direct,directed_by_inv,directed_by_inv
+1399,what is a film directed by [Matthew Barney],directed_by_inv,directed_by_inv
+1400,which films did [Josh Radnor] direct,directed_by_inv,directed_by_inv
+1401,which films did [Jacques Feyder] direct,directed_by_inv,directed_by_inv
+1402,can you name a film directed by [Don Medford],directed_by_inv,directed_by_inv
+1403,what did [Maurice Joyce] direct,directed_by_inv,directed_by_inv
+1404,can you name a film directed by [Reginald Beck],directed_by_inv,directed_by_inv
+1405,[Pete Docter] was the director on which movies,directed_by_inv,directed_by_inv
+1406,which movies did [Colin Brady] direct,directed_by_inv,directed_by_inv
+1407,which films did [Eduardo Sánchez] direct,directed_by_inv,directed_by_inv
+1408,what did [Russell Crowe] direct,directed_by_inv,directed_by_inv
+1409,[Joseph L. Mankiewicz] directed which movies,directed_by_inv,directed_by_inv
+1410,which films did [Stuart Millar] direct,directed_by_inv,directed_by_inv
+1411,what movies did [Tony Martin] direct,directed_by_inv,directed_by_inv
+1412,what did [Bruce Malmuth] direct,directed_by_inv,directed_by_inv
+1413,[Miguel Gomes] was the director of which movies,directed_by_inv,directed_by_inv
+1414,which films did [Charles Martin] direct,directed_by_inv,directed_by_inv
+1415,what is a film directed by [Vladimir Grammatikov],directed_by_inv,directed_by_inv
+1416,what is a film directed by [Stacy Title],directed_by_inv,directed_by_inv
+1417,[Jeffrey Friedman] was the director on which movies,directed_by_inv,directed_by_inv
+1418,which movies did [Hideyuki Hirayama] direct,directed_by_inv,directed_by_inv
+1419,what is a film directed by [Ana Kokkinos],directed_by_inv,directed_by_inv
+1420,[Josiane Balasko] was the director on which movies,directed_by_inv,directed_by_inv
+1421,what is a film directed by [Jason Buxton],directed_by_inv,directed_by_inv
+1422,which movies did [Vsevolod Pudovkin] direct,directed_by_inv,directed_by_inv
+1423,what is a film directed by [Hunter Weeks],directed_by_inv,directed_by_inv
+1424,what was [Ron Mann] the director of,directed_by_inv,directed_by_inv
+1425,[Damon Thomas] directed which films,directed_by_inv,directed_by_inv
+1426,[Jane Anderson] was the director of which films,directed_by_inv,directed_by_inv
+1427,which films did [James K. Shea] direct,directed_by_inv,directed_by_inv
+1428,[Ross McElwee] directed which movies,directed_by_inv,directed_by_inv
+1429,what movies did [Matty Rich] direct,directed_by_inv,directed_by_inv
+1430,[Ronald Bronstein] was the director of which films,directed_by_inv,directed_by_inv
+1431,which films did [Leonid Trauberg] direct,directed_by_inv,directed_by_inv
+1432,who acted in [First Snow],starred_actors,starred_actors
+1433,who acted in the movie [Singin' in the Rain],starred_actors,starred_actors
+1434,who acted in the movie [Time Without Pity],starred_actors,starred_actors
+1435,who are the actors in [War Horse],starred_actors,starred_actors
+1436,the movie [Puppet Master vs Demonic Toys] starred who,starred_actors,starred_actors
+1437,who stars in [The Fourth Kind],starred_actors,starred_actors
+1438,who acted in the movie [Planet of the Apes],starred_actors,starred_actors
+1439,the movie [School for Scoundrels] starred who,starred_actors,starred_actors
+1440,who starred in [Up in Arms],starred_actors,starred_actors
+1441,the film [Pennies from Heaven] starred which actors,starred_actors,starred_actors
+1442,who stars in [Ransom],starred_actors,starred_actors
+1443,who acted in the movie [The 39 Steps],starred_actors,starred_actors
+1444,who acted in the movie [Mood Indigo],starred_actors,starred_actors
+1445,who stars in [The Most Dangerous Game],starred_actors,starred_actors
+1446,who acted in [Aaron Loves Angela],starred_actors,starred_actors
+1447,the film [The Double Hour] starred which actors,starred_actors,starred_actors
+1448,the film [The Feminine Touch] starred which actors,starred_actors,starred_actors
+1449,who acted in [Jack's Back],starred_actors,starred_actors
+1450,the movie [You're a Big Boy Now] starred who,starred_actors,starred_actors
+1451,who acted in the movie [Purely Belter],starred_actors,starred_actors
+1452,who starred in [Max Dugan Returns],starred_actors,starred_actors
+1453,who stars in [Blue Skies],starred_actors,starred_actors
+1454,who acted in [Crimes of the Future],starred_actors,starred_actors
+1455,who starred in [Black Hawk Down],starred_actors,starred_actors
+1456,the film [Blood on the Moon] starred which actors,starred_actors,starred_actors
+1457,who acted in [Contact],starred_actors,starred_actors
+1458,the movie [Kiss and Tell] starred who,starred_actors,starred_actors
+1459,who acted in [Jiminy Glick in Lalawood],starred_actors,starred_actors
+1460,who stars in [Demolition Man],starred_actors,starred_actors
+1461,who are the actors in [Guilty],starred_actors,starred_actors
+1462,who stars in [Still of the Night],starred_actors,starred_actors
+1463,who are the actors in [The Death of the Incredible Hulk],starred_actors,starred_actors
+1464,the movie [Dark Mirror] starred who,starred_actors,starred_actors
+1465,the film [The Tomb of Ligeia] starred which actors,starred_actors,starred_actors
+1466,who stars in [Magic in the Water],starred_actors,starred_actors
+1467,who are the actors in [Mr. Smith Goes to Washington],starred_actors,starred_actors
+1468,who stars in [Kiss of Death],starred_actors,starred_actors
+1469,the film [The Trigger Effect] starred which actors,starred_actors,starred_actors
+1470,who acted in [Trapped Ashes],starred_actors,starred_actors
+1471,who acted in the movie [Trippin'],starred_actors,starred_actors
+1472,who acted in [Not of This Earth],starred_actors,starred_actors
+1473,who stars in [The Golden Compass],starred_actors,starred_actors
+1474,the movie [Victim] starred who,starred_actors,starred_actors
+1475,who are the actors in [Lapland Odyssey],starred_actors,starred_actors
+1476,the movie [Switchback] starred who,starred_actors,starred_actors
+1477,the film [Addams Family Values] starred which actors,starred_actors,starred_actors
+1478,who starred in [Midnight],starred_actors,starred_actors
+1479,who stars in [The Rescuers Down Under],starred_actors,starred_actors
+1480,who stars in [Lightspeed],starred_actors,starred_actors
+1481,who starred in [Yanks],starred_actors,starred_actors
+1482,who stars in [The Day of the Locust],starred_actors,starred_actors
+1483,who acted in [Christmas in Connecticut],starred_actors,starred_actors
+1484,who stars in [What Lies Beneath],starred_actors,starred_actors
+1485,the movie [RoboCop] starred who,starred_actors,starred_actors
+1486,who stars in [Speaking of the Devil],starred_actors,starred_actors
+1487,"who stars in [Girl, Interrupted]",starred_actors,starred_actors
+1488,who starred in [Arsenic and Old Lace],starred_actors,starred_actors
+1489,the film [The Devil and Miss Jones] starred which actors,starred_actors,starred_actors
+1490,who starred in [Road to Rio],starred_actors,starred_actors
+1491,who acted in the movie [Lucky 7],starred_actors,starred_actors
+1492,who stars in [Born to Be Bad],starred_actors,starred_actors
+1493,who acted in [Ride in the Whirlwind],starred_actors,starred_actors
+1494,the film [The Chapman Report] starred which actors,starred_actors,starred_actors
+1495,the film [Broken Embraces] starred which actors,starred_actors,starred_actors
+1496,who acted in the movie [End of the Game],starred_actors,starred_actors
+1497,who acted in [The Loved One],starred_actors,starred_actors
+1498,who are the actors in [Generation Um...],starred_actors,starred_actors
+1499,who are the actors in [Kiki's Delivery Service],starred_actors,starred_actors
+1500,who stars in [Sex Tape],starred_actors,starred_actors
+1501,the movie [Appointment with Danger] starred who,starred_actors,starred_actors
+1502,the film [King Leopold's Ghost] starred which actors,starred_actors,starred_actors
+1503,who acted in [A Soldier's Daughter Never Cries],starred_actors,starred_actors
+1504,the film [Rumble in the Bronx] starred which actors,starred_actors,starred_actors
+1505,the film [Beyond the Poseidon Adventure] starred which actors,starred_actors,starred_actors
+1506,the film [Smashing Time] starred which actors,starred_actors,starred_actors
+1507,the movie [Escape Me Never] starred who,starred_actors,starred_actors
+1508,who stars in [Set Me Free],starred_actors,starred_actors
+1509,who starred in [Logan's Run],starred_actors,starred_actors
+1510,who acted in the movie [Places in the Heart],starred_actors,starred_actors
+1511,the movie [Continental Divide] starred who,starred_actors,starred_actors
+1512,who starred in [Beyond the Clouds],starred_actors,starred_actors
+1513,who acted in the movie [30 Minutes or Less],starred_actors,starred_actors
+1514,the movie [The Wave] starred who,starred_actors,starred_actors
+1515,who acted in the movie [Dogfight],starred_actors,starred_actors
+1516,who acted in the movie [Guilty Hands],starred_actors,starred_actors
+1517,who starred in [The Razor's Edge],starred_actors,starred_actors
+1518,who starred in [Surviving Picasso],starred_actors,starred_actors
+1519,who starred in [Blonde Ambition],starred_actors,starred_actors
+1520,the movie [Bathing Beauty] starred who,starred_actors,starred_actors
+1521,who acted in the movie [Prince of Central Park],starred_actors,starred_actors
+1522,who starred in [Recollections of the Yellow House],starred_actors,starred_actors
+1523,who stars in [Alex in Wonderland],starred_actors,starred_actors
+1524,who acted in the movie [Devil],starred_actors,starred_actors
+1525,the movie [The Fiendish Plot of Dr. Fu Manchu] starred who,starred_actors,starred_actors
+1526,the movie [Baby Geniuses] starred who,starred_actors,starred_actors
+1527,who acted in the movie [Goya's Ghosts],starred_actors,starred_actors
+1528,who starred in [The Return of Swamp Thing],starred_actors,starred_actors
+1529,who acted in the movie [American Buffalo],starred_actors,starred_actors
+1530,who starred in [Flannel Pajamas],starred_actors,starred_actors
+1531,who starred in [Zombie Apocalypse],starred_actors,starred_actors
+1532,who acted in the movie [Paradise Road],starred_actors,starred_actors
+1533,who acted in the movie [Night and the City],starred_actors,starred_actors
+1534,who stars in [Easy Money],starred_actors,starred_actors
+1535,who stars in [Fahrenheit 9/11],starred_actors,starred_actors
+1536,who are the actors in [Already Dead],starred_actors,starred_actors
+1537,the movie [Weddings and Babies] starred who,starred_actors,starred_actors
+1538,who starred in [Ice Princess],starred_actors,starred_actors
+1539,who stars in [City of Joy],starred_actors,starred_actors
+1540,who acted in the movie [The Black Swan],starred_actors,starred_actors
+1541,"who starred in [Sleep, My Love]",starred_actors,starred_actors
+1542,the film [Cool as Ice] starred which actors,starred_actors,starred_actors
+1543,who are the actors in [The Blind Side],starred_actors,starred_actors
+1544,who acted in [Premium Rush],starred_actors,starred_actors
+1545,who are the actors in [Night Shift],starred_actors,starred_actors
+1546,the film [Farewell My Concubine] starred which actors,starred_actors,starred_actors
+1547,the movie [Nothing Sacred] starred who,starred_actors,starred_actors
+1548,who stars in [Sunshine],starred_actors,starred_actors
+1549,who starred in [Saw],starred_actors,starred_actors
+1550,who acted in the movie [Into the Woods],starred_actors,starred_actors
+1551,the film [Ulysses] starred which actors,starred_actors,starred_actors
+1552,who starred in [The Dark Knight Rises],starred_actors,starred_actors
+1553,who starred in [Soul Surfer],starred_actors,starred_actors
+1554,the film [Picnic at Hanging Rock] starred which actors,starred_actors,starred_actors
+1555,who starred in [Captain America],starred_actors,starred_actors
+1556,who stars in [Daylight Robbery],starred_actors,starred_actors
+1557,the film [Esther Kahn] starred which actors,starred_actors,starred_actors
+1558,the movie [Aerial Gunner] starred who,starred_actors,starred_actors
+1559,the film [Tokyo Zombie] starred which actors,starred_actors,starred_actors
+1560,who acted in [Blackjack],starred_actors,starred_actors
+1561,who starred in [Naked Weapon],starred_actors,starred_actors
+1562,the film [Beginning of the End] starred which actors,starred_actors,starred_actors
+1563,who acted in [The Shaggy Dog],starred_actors,starred_actors
+1564,who stars in [The Good Life],starred_actors,starred_actors
+1565,the film [The Big Heat] starred which actors,starred_actors,starred_actors
+1566,who acted in [Freaky Friday],starred_actors,starred_actors
+1567,who acted in [Merrill's Marauders],starred_actors,starred_actors
+1568,the movie [Craig's Wife] starred who,starred_actors,starred_actors
+1569,who starred in [CJ7],starred_actors,starred_actors
+1570,who are the actors in [Tartuffe],starred_actors,starred_actors
+1571,the film [Space Milkshake] starred which actors,starred_actors,starred_actors
+1572,who starred in [A Birder's Guide to Everything],starred_actors,starred_actors
+1573,who acted in the movie [Loverboy],starred_actors,starred_actors
+1574,who stars in [The Tall Man],starred_actors,starred_actors
+1575,who starred in [Nixon],starred_actors,starred_actors
+1576,who starred in [Northern Lights],starred_actors,starred_actors
+1577,who stars in [Paranoia],starred_actors,starred_actors
+1578,who starred in [Jackass Number Two],starred_actors,starred_actors
+1579,who stars in [Paris Belongs to Us],starred_actors,starred_actors
+1580,who starred in [Times Square],starred_actors,starred_actors
+1581,the movie [Penny Serenade] starred who,starred_actors,starred_actors
+1582,the film [Behind the Candelabra] starred which actors,starred_actors,starred_actors
+1583,who acted in [A Horrible Way to Die],starred_actors,starred_actors
+1584,who acted in [Identity Thief],starred_actors,starred_actors
+1585,the film [Rampage] starred which actors,starred_actors,starred_actors
+1586,who acted in [Lord Love a Duck],starred_actors,starred_actors
+1587,the movie [Double Team] starred who,starred_actors,starred_actors
+1588,who stars in [Twin Town],starred_actors,starred_actors
+1589,who acted in [Invisible Target],starred_actors,starred_actors
+1590,the movie [The Bitter Tea of General Yen] starred who,starred_actors,starred_actors
+1591,who acted in [Donovan's Reef],starred_actors,starred_actors
+1592,who acted in the movie [The Whole Nine Yards],starred_actors,starred_actors
+1593,who acted in the movie [Blood Glacier],starred_actors,starred_actors
+1594,who stars in [Faces in the Crowd],starred_actors,starred_actors
+1595,the movie [Teenage Mutant Ninja Turtles] starred who,starred_actors,starred_actors
+1596,the movie [Pocketful of Miracles] starred who,starred_actors,starred_actors
+1597,the movie [Killing Lincoln] starred who,starred_actors,starred_actors
+1598,who acted in [Hollywood Party],starred_actors,starred_actors
+1599,who starred in [Exam],starred_actors,starred_actors
+1600,who acted in [Angel Baby],starred_actors,starred_actors
+1601,who stars in [Antonio das Mortes],starred_actors,starred_actors
+1602,who acted in [Sommersby],starred_actors,starred_actors
+1603,who starred in [Mr. Pip],starred_actors,starred_actors
+1604,who acted in [The Man Who Captured Eichmann],starred_actors,starred_actors
+1605,the movie [Full Eclipse] starred who,starred_actors,starred_actors
+1606,"the film [Ciao, Professore!] starred which actors",starred_actors,starred_actors
+1607,who starred in [No],starred_actors,starred_actors
+1608,who acted in the movie [Corruption],starred_actors,starred_actors
+1609,who starred in [The Caine Mutiny],starred_actors,starred_actors
+1610,the movie [A Simple Plan] starred who,starred_actors,starred_actors
+1611,the movie [Stash House] starred who,starred_actors,starred_actors
+1612,who acted in [Kal Ho Naa Ho],starred_actors,starred_actors
+1613,who acted in the movie [Old Dogs],starred_actors,starred_actors
+1614,who stars in [Karthik Calling Karthik],starred_actors,starred_actors
+1615,who starred in [Barbarian Queen],starred_actors,starred_actors
+1616,who acted in the movie [Gleaming the Cube],starred_actors,starred_actors
+1617,who starred in [Delivery Man],starred_actors,starred_actors
+1618,who acted in [The Butterfly Effect 2],starred_actors,starred_actors
+1619,who stars in [The Escapist],starred_actors,starred_actors
+1620,the film [License to Wed] starred which actors,starred_actors,starred_actors
+1621,who are the actors in [Rancho Deluxe],starred_actors,starred_actors
+1622,who starred in [One Body Too Many],starred_actors,starred_actors
+1623,who acted in [The American],starred_actors,starred_actors
+1624,who starred in [Libertarias],starred_actors,starred_actors
+1625,the movie [Antz] starred who,starred_actors,starred_actors
+1626,the film [Elf] starred which actors,starred_actors,starred_actors
+1627,who stars in [Cherrybomb],starred_actors,starred_actors
+1628,who acted in the movie [Soylent Green],starred_actors,starred_actors
+1629,the film [The Life and Death of Colonel Blimp] starred which actors,starred_actors,starred_actors
+1630,who are the actors in [Reasonable Doubt],starred_actors,starred_actors
+1631,the movie [Miss Violence] starred who,starred_actors,starred_actors
+1632,who stars in [Major Barbara],starred_actors,starred_actors
+1633,who are the actors in [Lady Jane],starred_actors,starred_actors
+1634,who acted in [Caddyshack II],starred_actors,starred_actors
+1635,who starred in [A Bucket of Blood],starred_actors,starred_actors
+1636,the film [Drug War] starred which actors,starred_actors,starred_actors
+1637,the movie [Lola] starred who,starred_actors,starred_actors
+1638,the movie [The Virginian] starred who,starred_actors,starred_actors
+1639,who stars in [Light Sleeper],starred_actors,starred_actors
+1640,who starred in [Million Dollar Mermaid],starred_actors,starred_actors
+1641,who stars in [Gross Anatomy],starred_actors,starred_actors
+1642,who acted in [Punching the Clown],starred_actors,starred_actors
+1643,who acted in the movie [The Stars Look Down],starred_actors,starred_actors
+1644,the movie [The Love Guru] starred who,starred_actors,starred_actors
+1645,the film [Eye in the Sky] starred which actors,starred_actors,starred_actors
+1646,the film [Female Vampire] starred which actors,starred_actors,starred_actors
+1647,who are the actors in [Cool It],starred_actors,starred_actors
+1648,who acted in the movie [Holiday Inn],starred_actors,starred_actors
+1649,who stars in [Born to Raise Hell],starred_actors,starred_actors
+1650,who are the actors in [Step Up],starred_actors,starred_actors
+1651,who acted in [Jindabyne],starred_actors,starred_actors
+1652,the movie [Total Recall] starred who,starred_actors,starred_actors
+1653,who acted in [These Girls],starred_actors,starred_actors
+1654,who acted in the movie [A Little Stiff],starred_actors,starred_actors
+1655,who stars in [Miss Julie],starred_actors,starred_actors
+1656,who acted in [Joe the King],starred_actors,starred_actors
+1657,who stars in [World Trade Center],starred_actors,starred_actors
+1658,who are the actors in [Beautiful Ohio],starred_actors,starred_actors
+1659,who stars in [Amazing Grace and Chuck],starred_actors,starred_actors
+1660,who starred in [Lady in White],starred_actors,starred_actors
+1661,who acted in [Wyoming Renegades],starred_actors,starred_actors
+1662,who stars in [Boys and Girls],starred_actors,starred_actors
+1663,who stars in [The Bride with White Hair],starred_actors,starred_actors
+1664,who acted in [Ace of Hearts],starred_actors,starred_actors
+1665,the movie [The Patriot] starred who,starred_actors,starred_actors
+1666,who starred in [Memphis Belle],starred_actors,starred_actors
+1667,the movie [Skin Deep] starred who,starred_actors,starred_actors
+1668,who starred in [Mister Johnson],starred_actors,starred_actors
+1669,who acted in [Music of the Heart],starred_actors,starred_actors
+1670,who are the actors in [Boogeyman],starred_actors,starred_actors
+1671,who acted in the movie [Outrage],starred_actors,starred_actors
+1672,who are the actors in [Errors of the Human Body],starred_actors,starred_actors
+1673,the film [Phaedra] starred which actors,starred_actors,starred_actors
+1674,who acted in [The Beast with Five Fingers],starred_actors,starred_actors
+1675,who acted in the movie [Grace of Monaco],starred_actors,starred_actors
+1676,who acted in the movie [Molière],starred_actors,starred_actors
+1677,who starred in [Gun Shy],starred_actors,starred_actors
+1678,who acted in the movie [Cinderella Liberty],starred_actors,starred_actors
+1679,who are the actors in [Earthlings],starred_actors,starred_actors
+1680,who acted in [Darkest Night],starred_actors,starred_actors
+1681,who stars in [The Keys of the Kingdom],starred_actors,starred_actors
+1682,who starred in [Hang 'Em High],starred_actors,starred_actors
+1683,who acted in [The Brothers Karamazov],starred_actors,starred_actors
+1684,who are the actors in [Men at Work],starred_actors,starred_actors
+1685,the film [Charlie St. Cloud] starred which actors,starred_actors,starred_actors
+1686,who starred in [Once Upon a Time in China],starred_actors,starred_actors
+1687,the movie [Touchback] starred who,starred_actors,starred_actors
+1688,the film [Forever Amber] starred which actors,starred_actors,starred_actors
+1689,"the film [Atlantis, the Lost Continent] starred which actors",starred_actors,starred_actors
+1690,who are the actors in [The Band Wagon],starred_actors,starred_actors
+1691,who are the actors in [The Kid Stays in the Picture],starred_actors,starred_actors
+1692,who stars in [For Love or Money],starred_actors,starred_actors
+1693,who acted in the movie [The Sailor Who Fell from Grace with the Sea],starred_actors,starred_actors
+1694,the film [The Smurfs] starred which actors,starred_actors,starred_actors
+1695,who starred in [Two Lovers],starred_actors,starred_actors
+1696,who are the actors in [Them!],starred_actors,starred_actors
+1697,who acted in the movie [Bartok the Magnificent],starred_actors,starred_actors
+1698,who starred in [The Big Cube],starred_actors,starred_actors
+1699,the movie [It's Always Fair Weather] starred who,starred_actors,starred_actors
+1700,the film [Dressed to Kill] starred which actors,starred_actors,starred_actors
+1701,who are the actors in [The Frozen Ghost],starred_actors,starred_actors
+1702,who starred in [Coma],starred_actors,starred_actors
+1703,who are the actors in [Bitter Rice],starred_actors,starred_actors
+1704,who acted in the movie [Alexander Nevsky],starred_actors,starred_actors
+1705,the movie [Blindman] starred who,starred_actors,starred_actors
+1706,the movie [Frailty] starred who,starred_actors,starred_actors
+1707,who acted in [Children of the Revolution],starred_actors,starred_actors
+1708,who acted in the movie [Days of Glory],starred_actors,starred_actors
+1709,who stars in [Remember the Day],starred_actors,starred_actors
+1710,the film [Dark Command] starred which actors,starred_actors,starred_actors
+1711,the film [Mrs. Brown's Boys D'Movie] starred which actors,starred_actors,starred_actors
+1712,the movie [Bad Day on the Block] starred who,starred_actors,starred_actors
+1713,who starred in [The Pillow Book],starred_actors,starred_actors
+1714,who stars in [Village of the Damned],starred_actors,starred_actors
+1715,the movie [The Seventh Victim] starred who,starred_actors,starred_actors
+1716,who are the actors in [The Hunchback],starred_actors,starred_actors
+1717,who acted in the movie [Green Ice],starred_actors,starred_actors
+1718,the movie [Elephant Boy] starred who,starred_actors,starred_actors
+1719,who acted in [Boogie Woogie],starred_actors,starred_actors
+1720,who acted in the movie [Seven Chances],starred_actors,starred_actors
+1721,the film [The Grass Harp] starred which actors,starred_actors,starred_actors
+1722,who acted in the movie [The Fog],starred_actors,starred_actors
+1723,the movie [The Gauntlet] starred who,starred_actors,starred_actors
+1724,who stars in [Titus],starred_actors,starred_actors
+1725,who are the actors in [Snitch],starred_actors,starred_actors
+1726,who acted in [Humboldt County],starred_actors,starred_actors
+1727,who stars in [Get Crazy],starred_actors,starred_actors
+1728,who acted in the movie [Grumpier Old Men],starred_actors,starred_actors
+1729,who acted in the movie [Liliom],starred_actors,starred_actors
+1730,the movie [King Solomon's Mines] starred who,starred_actors,starred_actors
+1731,who acted in the movie [Fred Claus],starred_actors,starred_actors
+1732,who acted in the movie [Izo],starred_actors,starred_actors
+1733,the movie [The Flame of New Orleans] starred who,starred_actors,starred_actors
+1734,the film [The Wonderful Ice Cream Suit] starred which actors,starred_actors,starred_actors
+1735,the film [Charlie Chan in Reno] starred which actors,starred_actors,starred_actors
+1736,the movie [The Young Master] starred who,starred_actors,starred_actors
+1737,who are the actors in [The Badge],starred_actors,starred_actors
+1738,who acted in the movie [Videodrome],starred_actors,starred_actors
+1739,who are the actors in [We Need to Talk About Kevin],starred_actors,starred_actors
+1740,the movie [10] starred who,starred_actors,starred_actors
+1741,the movie [The Third Wave] starred who,starred_actors,starred_actors
+1742,who stars in [The Bells of St. Mary's],starred_actors,starred_actors
+1743,who stars in [Unfaithfully Yours],starred_actors,starred_actors
+1744,who stars in [The Garage],starred_actors,starred_actors
+1745,who stars in [A Short Film About Killing],starred_actors,starred_actors
+1746,who stars in [Nightmare Alley],starred_actors,starred_actors
+1747,who stars in [Black on White],starred_actors,starred_actors
+1748,who starred in [Quicksand],starred_actors,starred_actors
+1749,who stars in [The Last Stand],starred_actors,starred_actors
+1750,the film [Drive Hard] starred which actors,starred_actors,starred_actors
+1751,who acted in the movie [Champion],starred_actors,starred_actors
+1752,who starred in [The Words],has_tags,starred_actors
+1753,who starred in [The Great Locomotive Chase],starred_actors,starred_actors
+1754,who acted in the movie [Swoon],starred_actors,starred_actors
+1755,who are the actors in [And Then There Were None],starred_actors,starred_actors
+1756,who stars in [Spirited Away],starred_actors,starred_actors
+1757,the movie [Herbie Goes Bananas] starred who,starred_actors,starred_actors
+1758,who starred in [The Raven],starred_actors,starred_actors
+1759,the movie [Black Cadillac] starred who,starred_actors,starred_actors
+1760,the movie [New York Minute] starred who,starred_actors,starred_actors
+1761,the film [Seven Psychopaths] starred which actors,starred_actors,starred_actors
+1762,who stars in [Diary of a Madman],starred_actors,starred_actors
+1763,who acted in the movie [Feet First],starred_actors,starred_actors
+1764,the film [The Walking Stick] starred which actors,starred_actors,starred_actors
+1765,the movie [Alice Upside Down] starred who,starred_actors,starred_actors
+1766,the film [A Royal Affair] starred which actors,starred_actors,starred_actors
+1767,the movie [Muppet Treasure Island] starred who,starred_actors,starred_actors
+1768,who acted in [Bluebeard],starred_actors,starred_actors
+1769,who acted in [Desperate Journey],starred_actors,starred_actors
+1770,who stars in [Muxmäuschenstill],starred_actors,starred_actors
+1771,who are the actors in [The Chipmunk Adventure],starred_actors,starred_actors
+1772,who acted in [The Beautician and the Beast],starred_actors,starred_actors
+1773,the movie [Last Dance] starred who,starred_actors,starred_actors
+1774,who starred in [Wild Geese II],starred_actors,starred_actors
+1775,the film [Pet Sematary] starred which actors,starred_actors,starred_actors
+1776,who are the actors in [Smokey and the Bandit II],starred_actors,starred_actors
+1777,who acted in [Commandments],starred_actors,starred_actors
+1778,who acted in [Year of the Dragon],starred_actors,starred_actors
+1779,who are the actors in [Interrupted Melody],starred_actors,starred_actors
+1780,who starred in [Days of Wine and Roses],starred_actors,starred_actors
+1781,the movie [The Shopworn Angel] starred who,starred_actors,starred_actors
+1782,who are the actors in [The Devil's Rejects],starred_actors,starred_actors
+1783,who starred in [Teacher's Pet],starred_actors,starred_actors
+1784,who starred in [The Dam Busters],starred_actors,starred_actors
+1785,who acted in the movie [Wings],starred_actors,starred_actors
+1786,who acted in [The World of Kanako],starred_actors,starred_actors
+1787,who stars in [The Devil-Doll],starred_actors,starred_actors
+1788,the film [Clockwatchers] starred which actors,starred_actors,starred_actors
+1789,the film [Fallen] starred which actors,starred_actors,starred_actors
+1790,who are the actors in [Stardust],starred_actors,starred_actors
+1791,who acted in the movie [The Journey of Natty Gann],starred_actors,starred_actors
+1792,who are the actors in [The In Crowd],starred_actors,starred_actors
+1793,who acted in the movie [Machete Kills],starred_actors,starred_actors
+1794,who starred in [Scar],starred_actors,starred_actors
+1795,who acted in [Thunder Bay],starred_actors,starred_actors
+1796,the movie [The Order] starred who,starred_actors,starred_actors
+1797,who acted in [Donnie Brasco],starred_actors,starred_actors
+1798,who are the actors in [Night of the Living Dead],starred_actors,starred_actors
+1799,the film [Story of a Love Affair] starred which actors,starred_actors,starred_actors
+1800,who acted in [Caught Inside],starred_actors,starred_actors
+1801,who acted in the movie [The Twilight of the Golds],starred_actors,starred_actors
+1802,who starred in [Edge of Tomorrow],starred_actors,starred_actors
+1803,who acted in the movie [Prick Up Your Ears],starred_actors,starred_actors
+1804,who acted in [Hysterical Blindness],starred_actors,starred_actors
+1805,who starred in [Stuck],starred_actors,starred_actors
+1806,who are the actors in [The Day the Earth Stood Still],starred_actors,starred_actors
+1807,the movie [The Legend of Hercules] starred who,starred_actors,starred_actors
+1808,who stars in [Divorce American Style],starred_actors,starred_actors
+1809,who are the actors in [Max Payne],starred_actors,starred_actors
+1810,who are the actors in [American Gigolo],starred_actors,starred_actors
+1811,who acted in the movie [Wasabi],starred_actors,starred_actors
+1812,who are the actors in [Monte Carlo],starred_actors,starred_actors
+1813,the movie [Senna] starred who,starred_actors,starred_actors
+1814,the film [The Pool] starred which actors,starred_actors,starred_actors
+1815,who acted in the movie [The Color of Money],starred_actors,starred_actors
+1816,who are the actors in [Raanjhanaa],starred_actors,starred_actors
+1817,who acted in [The Monster That Challenged the World],starred_actors,starred_actors
+1818,who starred in [The Visitor],starred_actors,starred_actors
+1819,who acted in the movie [Killer Klowns from Outer Space],starred_actors,starred_actors
+1820,who stars in [Sleep with Me],starred_actors,starred_actors
+1821,who are the actors in [Duets],starred_actors,starred_actors
+1822,the film [The Captive] starred which actors,starred_actors,starred_actors
+1823,who starred in [A Woman Is a Woman],starred_actors,starred_actors
+1824,who are the actors in [Tension],starred_actors,starred_actors
+1825,who acted in [A Tale of Springtime],starred_actors,starred_actors
+1826,who are the actors in [Zipper],starred_actors,starred_actors
+1827,who acted in the movie [Squirm],starred_actors,starred_actors
+1828,the film [Here Comes the Navy] starred which actors,starred_actors,starred_actors
+1829,who are the actors in [Pollock],starred_actors,starred_actors
+1830,who stars in [Doppelganger],starred_actors,starred_actors
+1831,who stars in [Yonkers Joe],starred_actors,starred_actors
+1832,the movie [The Thing] starred who,starred_actors,starred_actors
+1833,who acted in the movie [The Beautiful Country],starred_actors,starred_actors
+1834,the film [Another Thin Man] starred which actors,starred_actors,starred_actors
+1835,who are the actors in [New Rose Hotel],starred_actors,starred_actors
+1836,who acted in [The Hole],starred_actors,starred_actors
+1837,who acted in the movie [The Boondock Saints],starred_actors,starred_actors
+1838,the film [Final Analysis] starred which actors,starred_actors,starred_actors
+1839,who acted in [Angel Eyes],starred_actors,starred_actors
+1840,who starred in [Vertical Limit],starred_actors,starred_actors
+1841,who acted in [Scenes from the Class Struggle in Beverly Hills],starred_actors,starred_actors
+1842,who stars in [Fatherland],starred_actors,starred_actors
+1843,the movie [Stuck on You] starred who,starred_actors,starred_actors
+1844,who acted in [High Sierra],starred_actors,starred_actors
+1845,who stars in [Please Give],starred_actors,starred_actors
+1846,who are the actors in [In America],starred_actors,starred_actors
+1847,who acted in the movie [Motorama],starred_actors,starred_actors
+1848,who stars in [This Sporting Life],starred_actors,starred_actors
+1849,who are the actors in [Apocalypse Now],starred_actors,starred_actors
+1850,who are the actors in [48 Hrs.],starred_actors,starred_actors
+1851,who acted in [House of Frankenstein],starred_actors,starred_actors
+1852,who acted in the movie [Faster],starred_actors,starred_actors
+1853,the movie [Sometimes in April] starred who,starred_actors,starred_actors
+1854,the movie [That Evening Sun] starred who,starred_actors,starred_actors
+1855,who stars in [The Green Hornet],starred_actors,starred_actors
+1856,who acted in [Swing Kids],starred_actors,starred_actors
+1857,who stars in [Redline],starred_actors,starred_actors
+1858,the movie [Re-cycle] starred who,starred_actors,starred_actors
+1859,who stars in [The Living Daylights],starred_actors,starred_actors
+1860,who acted in [Monkeybone],starred_actors,starred_actors
+1861,who acted in the movie [Apartment Zero],starred_actors,starred_actors
+1862,who starred in [Unfaithful],starred_actors,starred_actors
+1863,the film [1776] starred which actors,starred_actors,starred_actors
+1864,who starred in [Son of Lassie],starred_actors,starred_actors
+1865,who starred in [A Bug's Life],starred_actors,starred_actors
+1866,the movie [Vampires] starred who,starred_actors,starred_actors
+1867,the film [Design for Scandal] starred which actors,starred_actors,starred_actors
+1868,who starred in [Omega Doom],starred_actors,starred_actors
+1869,who acted in [A Woman's Tale],starred_actors,starred_actors
+1870,who stars in [Standing in the Shadows of Motown],starred_actors,starred_actors
+1871,who starred in [Be Kind Rewind],starred_actors,starred_actors
+1872,who are the actors in [Cradle 2 the Grave],starred_actors,starred_actors
+1873,the film [Innocence] starred which actors,starred_actors,starred_actors
+1874,who are the actors in [Kings Row],starred_actors,starred_actors
+1875,who acted in the movie [Bopha!],starred_actors,starred_actors
+1876,the film [A Pure Formality] starred which actors,starred_actors,starred_actors
+1877,who acted in [Crack-Up],starred_actors,starred_actors
+1878,the film [Gang Related] starred which actors,starred_actors,starred_actors
+1879,who acted in [Emma],starred_actors,starred_actors
+1880,who are the actors in [I-See-You.Com],starred_actors,starred_actors
+1881,the film [The Darkest Hour] starred which actors,starred_actors,starred_actors
+1882,who acted in [Twin Falls Idaho],starred_actors,starred_actors
+1883,the movie [Fiddler on the Roof] starred who,starred_actors,starred_actors
+1884,who acted in [Down and Out in Beverly Hills],starred_actors,starred_actors
+1885,who acted in [An Apology to Elephants],starred_actors,starred_actors
+1886,who acted in the movie [Incendiary],starred_actors,starred_actors
+1887,the film [The Answer Man] starred which actors,starred_actors,starred_actors
+1888,who stars in [Closed Curtain],starred_actors,starred_actors
+1889,the film [Fly Away] starred which actors,starred_actors,starred_actors
+1890,who starred in [Control],starred_actors,starred_actors
+1891,who stars in [Aloha Summer],starred_actors,starred_actors
+1892,the movie [Miracle in Milan] starred who,starred_actors,starred_actors
+1893,the movie [Airborne] starred who,starred_actors,starred_actors
+1894,who acted in the movie [Class],starred_actors,starred_actors
+1895,who acted in the movie [Heartless],starred_actors,starred_actors
+1896,the film [Suing the Devil] starred which actors,starred_actors,starred_actors
+1897,the movie [Bad Boy] starred who,starred_actors,starred_actors
+1898,who acted in the movie [Two If by Sea],starred_actors,starred_actors
+1899,the film [You Don't Know Jack] starred which actors,starred_actors,starred_actors
+1900,who acted in [Defiance],starred_actors,starred_actors
+1901,who are the actors in [Moon 44],starred_actors,starred_actors
+1902,the movie [The Mark of Zorro] starred who,starred_actors,starred_actors
+1903,the film [The King's Whore] starred which actors,starred_actors,starred_actors
+1904,the movie [Fist of Legend] starred who,starred_actors,starred_actors
+1905,who starred in [Mary],starred_actors,starred_actors
+1906,who are the actors in [Notting Hill],starred_actors,starred_actors
+1907,who are the actors in [Battleship],starred_actors,starred_actors
+1908,who stars in [The Cowboy Way],starred_actors,starred_actors
+1909,who are the actors in [The Immortal Story],starred_actors,starred_actors
+1910,who acted in the movie [Lottery Ticket],starred_actors,starred_actors
+1911,who acted in [Swimming Pool],starred_actors,starred_actors
+1912,who are the actors in [Raising Arizona],starred_actors,starred_actors
+1913,the film [Page Miss Glory] starred which actors,starred_actors,starred_actors
+1914,who stars in [Vivacious Lady],starred_actors,starred_actors
+1915,the movie [The Adventures of Huckleberry Finn] starred who,starred_actors,starred_actors
+1916,who stars in [In Their Skin],starred_actors,starred_actors
+1917,the movie [The Other Dream Team] starred who,starred_actors,starred_actors
+1918,the film [The Sound of Fury] starred which actors,starred_actors,starred_actors
+1919,who acted in the movie [Son of Batman],starred_actors,starred_actors
+1920,who acted in [Under Fire],starred_actors,starred_actors
+1921,who starred in [Start the Revolution Without Me],starred_actors,starred_actors
+1922,who are the actors in [The Producers],starred_actors,starred_actors
+1923,who are the actors in [Dark Matter],starred_actors,starred_actors
+1924,who acted in [Open Season],starred_actors,starred_actors
+1925,the film [22 Jump Street] starred which actors,starred_actors,starred_actors
+1926,the film [Black Knight] starred which actors,starred_actors,starred_actors
+1927,who are the actors in [Kawa],starred_actors,starred_actors
+1928,who stars in [Ravenous],starred_actors,starred_actors
+1929,the film [The East] starred which actors,starred_actors,starred_actors
+1930,who acted in the movie [Airbag],starred_actors,starred_actors
+1931,who are the actors in [The Girl on a Motorcycle],starred_actors,starred_actors
+1932,who stars in [Sunday Bloody Sunday],starred_actors,starred_actors
+1933,who starred in [Meet the Deedles],starred_actors,starred_actors
+1934,who are the actors in [Dog Day],starred_actors,starred_actors
+1935,who stars in [Kiss Me Goodbye],starred_actors,starred_actors
+1936,the movie [This Filthy World] starred who,starred_actors,starred_actors
+1937,who are the actors in [The Exorcist],starred_actors,starred_actors
+1938,who are the actors in [Kuffs],starred_actors,starred_actors
+1939,who acted in [Breakdown],starred_actors,starred_actors
+1940,who acted in [Kikujiro],starred_actors,starred_actors
+1941,who are the actors in [Love at Large],starred_actors,starred_actors
+1942,who are the actors in [The Other Woman],starred_actors,starred_actors
+1943,who acted in the movie [The Fury],starred_actors,starred_actors
+1944,who are the actors in [July Rhapsody],starred_actors,starred_actors
+1945,the movie [Only Old Men Are Going to Battle] starred who,starred_actors,starred_actors
+1946,who acted in [On the Beach],starred_actors,starred_actors
+1947,who acted in [Morvern Callar],starred_actors,starred_actors
+1948,who acted in [The Olsen Gang on the Track],starred_actors,starred_actors
+1949,who acted in [The Man Who Haunted Himself],starred_actors,starred_actors
+1950,the movie [Safe House] starred who,starred_actors,starred_actors
+1951,the film [The Water Horse] starred which actors,starred_actors,starred_actors
+1952,who starred in [The Children's Hour],starred_actors,starred_actors
+1953,the film [Riot on Sunset Strip] starred which actors,starred_actors,starred_actors
+1954,who are the actors in [Saw II],starred_actors,starred_actors
+1955,the film [Cimarron] starred which actors,starred_actors,starred_actors
+1956,the film [Zero Tolerance] starred which actors,starred_actors,starred_actors
+1957,who stars in [Gallowwalkers],starred_actors,starred_actors
+1958,who acted in [Getting Away with Murder],starred_actors,starred_actors
+1959,who acted in [The Other Side of Sunday],starred_actors,starred_actors
+1960,who starred in [The Sweetest Thing],starred_actors,starred_actors
+1961,who acted in the movie [Les Misérables],starred_actors,starred_actors
+1962,who starred in [Desperate Measures],starred_actors,starred_actors
+1963,who starred in [What Price Hollywood?],starred_actors,starred_actors
+1964,who are the actors in [The Big Wedding],starred_actors,starred_actors
+1965,who acted in [The Last Castle],starred_actors,starred_actors
+1966,who acted in the movie [The Blues Brothers],starred_actors,starred_actors
+1967,who are the actors in [Ninja],starred_actors,starred_actors
+1968,who acted in [Sharknado],starred_actors,starred_actors
+1969,who starred in [Identity],starred_actors,starred_actors
+1970,who acted in the movie [Born to Win],starred_actors,starred_actors
+1971,the film [Dark of the Sun] starred which actors,starred_actors,starred_actors
+1972,who acted in [Frankie and Johnny],starred_actors,starred_actors
+1973,who starred in [White of the Eye],starred_actors,starred_actors
+1974,who starred in [John Q],starred_actors,starred_actors
+1975,who acted in [The Devil's Own],starred_actors,starred_actors
+1976,the film [Grease 2] starred which actors,starred_actors,starred_actors
+1977,who acted in the movie [Miracle on 34th Street],starred_actors,starred_actors
+1978,the movie [Wolf Children] starred who,starred_actors,starred_actors
+1979,the film [The Face of Love] starred which actors,starred_actors,starred_actors
+1980,the film [Orgazmo] starred which actors,starred_actors,starred_actors
+1981,who starred in [Gridlock'd],starred_actors,starred_actors
+1982,who acted in the movie [The Brink's Job],starred_actors,starred_actors
+1983,who acted in the movie [Dhoom],starred_actors,starred_actors
+1984,who are the actors in [100 Rifles],starred_actors,starred_actors
+1985,who stars in [Audition],starred_actors,starred_actors
+1986,the movie [Dirty Filthy Love] starred who,starred_actors,starred_actors
+1987,who are the actors in [Turbulence],starred_actors,starred_actors
+1988,who acted in [The Ape],starred_actors,starred_actors
+1989,who acted in [Blink],starred_actors,starred_actors
+1990,the film [Your Sister's Sister] starred which actors,starred_actors,starred_actors
+1991,the film [Dabangg 2] starred which actors,starred_actors,starred_actors
+1992,who acted in the movie [Seven Thieves],starred_actors,starred_actors
+1993,who acted in the movie [The Far Horizons],starred_actors,starred_actors
+1994,who are the actors in [The Pentagon Wars],starred_actors,starred_actors
+1995,who acted in [Westward Ho],starred_actors,starred_actors
+1996,the movie [Julie] starred who,starred_actors,starred_actors
+1997,who are the actors in [The Fan],starred_actors,starred_actors
+1998,who are the actors in [American Violet],starred_actors,starred_actors
+1999,the film [A Woman of Affairs] starred which actors,starred_actors,starred_actors
