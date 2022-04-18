@@ -53,12 +53,12 @@ class Data_prep():
         return train , valid , test
 
     def get_data(self,path):
-        if os.path.exists('all_train.csv'):
-            train = pd.read_csv('all_train.csv').drop('Unnamed: 0',axis=1)
+        if os.path.exists('data/all_train.csv'):
+            train = pd.read_csv('data/all_train.csv').drop('Unnamed: 0', axis=1)
             print('traiiin ', len(train))
 
-            valid = pd.read_csv('all_valid.csv').drop('Unnamed: 0',axis=1)
-            test = pd.read_csv('all_test.csv').drop('Unnamed: 0',axis=1)
+            valid = pd.read_csv('data/all_valid.csv').drop('Unnamed: 0', axis=1)
+            test = pd.read_csv('data/all_test.csv').drop('Unnamed: 0', axis=1)
             return train ,valid,test
         else :
             return self.load_data()

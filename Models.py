@@ -1,4 +1,5 @@
 import torch
+import torch.nn as nn
 
 class Encoder(nn.Module):
     def __init__(self, vocab_size, embedding_dim, enc_units, batch_sz):
@@ -55,3 +56,73 @@ class Decoder(nn.Module):
 
     def initialize_hidden_state(self):
         return torch.zeros((1, self.batch_sz, self.dec_units))
+
+
+class Encoder2(nn.Module):
+    def __init__(self, embedding_dim, enc_units, batch_sz):
+        super(Encoder2, self).__init__()
+        self.batch_sz = batch_sz
+        self.enc_units = enc_units
+        self.embedding_dim = embedding_dim
+        self.gru = nn.GRU(self.embedding_dim, self.enc_units)
+        self.lin = nn.Linear(embedding_dim, enc_units)
+
+    def forward(self, x, device):
+        # x = self.embedding(x)
+        x = x.view(-1, 384)
+        return self.lin(x)
+
+    def initialize_hidden_state(self, device):
+        return torch.zeros((1, self.batch_sz, self.enc_units)).to(device)
+
+
+class Decoder2(nn.Module):
+    def __init__(self, vocab_size, embedding_dim, dec_units, enc_units, batch_sz):
+        super(Decoder2, self).__init__()
+        self.batch_sz = batch_sz
+        self.dec_units = dec_units
+        self.enc_units = enc_units
+        self.vocab_size = vocab_size
+        self.embedding_dim = embedding_dim
+        self.embedding = nn.Embedding(self.vocab_size, self.embedding_dim)
+        self.gru = nn.GRU(self.embedding_dim + self.enc_units,
+                          self.dec_units,
+                          batch_first=True)
+        self.fc = nn.Linear(self.enc_units, self.vocab_size)
+
+        self.W1 = nn.Linear(self.enc_units, self.dec_units)
+        self.W2 = nn.Linear(self.enc_units, self.dec_units)
+        self.V = nn.Linear(self.enc_units, 1)
+
+    def forward(self, x, context_vector):
+        # print('coooontext ',context_vector.shape)
+        x = self.embedding(x)
+        x = torch.cat((context_vector.unsqueeze(1), x), -1)
+        output, state = self.gru(x)
+        output = output.view(-1, output.size(2))
+        x = self.fc(output)
+        return x, state
+
+    def initialize_hidden_state(self):
+        return torch.zeros((1, self.batch_sz, self.dec_units))
+
+class Encoder3(nn.Module):
+    def __init__(self, embedding_dim, enc_units, batch_sz):
+        super(Encoder3, self).__init__()
+        self.batch_sz = batch_sz
+        self.enc_units = enc_units
+        self.embedding_dim = embedding_dim
+        self.gru = nn.GRU(self.embedding_dim, self.enc_units)
+
+    def forward(self, x, device):
+        #print('xxxxx',x.shape)
+        x = x.view(1,self.batch_sz,self.embedding_dim)
+        #print('emmmmb',x.shape)
+
+        self.hidden = self.initialize_hidden_state(device)
+        output, self.hidden = self.gru(x, self.hidden)
+        return output, self.hidden
+
+    def initialize_hidden_state(self, device):
+        return torch.zeros((1, self.batch_sz, self.enc_units)).to(device)
+

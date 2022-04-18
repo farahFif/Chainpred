@@ -1,5 +1,5 @@
 from torch.utils.data import Dataset, DataLoader
-
+import numpy as np
 
 class MyData(Dataset):
     def __init__(self, X, y):

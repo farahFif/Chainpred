@@ -1,0 +1,100 @@
+what is the name of justin bieber brother [m.06w2sn5]	people.person.sibling_s|people.sibling_relationship.sibling
+what character did natalie portman play in star wars [m.09l3p]	film.actor.film|film.performance.character
+what country is the grand bahama island in [m.03st9j]	location.location.containedby
+what kind of money to take to bahamas [m.0160w]	location.country.currency_used
+what character did john noble play in lord of the rings [m.02fgm7]	film.actor.film|film.performance.character
+who does joakim noah play for [m.0c2yrf]	sports.pro_athlete.teams|sports.sports_team_roster.team
+where are the nfl redskins from [m.084l5]	sports.sports_team.location
+where did saki live [m.07484]	people.person.place_of_birth
+how old is sacha baron cohen [m.0c9c0]	people.person.date_of_birth
+what time zone am i in cleveland ohio [m.01sn3]	location.location.time_zones
+who did draco malloy end up marrying [m.0c2m4]	fictional_universe.fictional_character.married_to|fictional_universe.marriage_of_fictional_characters.spouses
+which countries border the us [m.09c7w0]	location.location.adjoin_s|location.adjoining_relationship.adjoins
+where is rome italy located on a map [m.06c62]	location.location.containedby
+what is nina dobrev nationality [m.027nwk2]	people.person.nationality
+what books did beverly cleary right [m.018rv0]	book.author.book_editions_published|book.author.works_written
+where to fly into bali [m.01bkb]	travel.travel_destination.how_to_get_here|travel.transportation.transport_terminus
+who is the prime minister of ethiopia [m.019pcs]	government.governmental_jurisdiction.governing_officials|government.government_position_held.office_holder
+what to see near sedona arizona [m.0ny57]	travel.travel_destination.tourist_attractions
+what high school did president bill clinton attend [m.0157m]	people.person.education|education.education.institution
+what form of government does russia have today [m.06bnz]	location.country.form_of_government
+what movies does taylor lautner play in [m.07ldhs]	film.actor.film|film.performance.film
+what year lebron james came to the nba [m.01jz6d]	sports.sports_award_winner.awards|sports.sports_award.season
+which wife did king henry behead [m.03p77]	people.person.spouse_s|people.marriage.spouse
+who was ishmael 's mom [m.01ghr4]	people.person.parents
+what was malcolm x trying to accomplish [m.03f2h01]	base.activism.activist.area_of_activism
+where are the netherlands on a world map [m.059j2]	location.location.containedby
+what is the president of brazil [m.015fr]	government.governmental_jurisdiction.governing_officials|government.government_position_held.office_holder
+what are the major cities in france [m.0f8l9c]	location.country.capital
+what city did esther live in [m.02pn7]	people.person.place_of_birth
+what sport do the toronto maple leafs play [m.0j6tr]	base.events.event_presenting_organisation.event_feed|base.events.event_feed.type_of_event|sports.sports_team.sport
+what is saint nicholas known for [m.0f9q7]	book.book_subject.works
+what is cher 's son 's name [m.01vtj38]	people.person.children
+what party was andrew jackson [m.0rlz]	government.politician.party|government.political_party_tenure.party
+what county is the city of hampton va in [m.0mnsf]	location.hud_county_place.place
+what is the name of the first harry potter novel [m.078ffw]	book.literary_series.works_in_this_series
+what did william shakespeare do for a living [m.081k8]	people.person.profession
+what county is heathrow airport in [m.03jn4]	location.location.containedby
+what movie is josh hutcherson in [m.08wjf4]	film.actor.film|film.performance.film
+where do the san francisco giants play home games [m.0713r]	sports.sports_team.arena_stadium
+what year did william jennings bryan run for president [m.0b3tf]	base.politicalconventions.presidential_nominee.nominated_at
+what was the name of frederick douglass book [m.02zg0]	book.author.works_written
+who was queen victoria 's parents called [m.0cw10]	people.person.parents
+what movies did sally field win an oscar for [m.01jw4r]	award.award_winner.awards_won|award.award_honor.honored_for
+what is the first book sherlock holmes appeared in [m.06rkl]	book.book_character.appears_in_book
+what countries do people speak portuguese [m.05zjd]	language.human_language.countries_spoken_in|language.human_language.main_country
+what are the names of walt disney kids [m.081nh]	people.person.children
+who is in the band bush [m.01727v]	music.musical_group.member|music.group_membership.member
+what was tupac name in juice [m.07pzc]	film.actor.film|film.performance.character
+what timezone is australia gmt [m.0chghy]	location.location.time_zones
+who does maggie grace play in taken [m.03_wpf]	film.actor.film|film.performance.character|film.actor.film|film.performance.character|film.film.starring|film.performance.character
+what style of music did louis armstrong play [m.04n32]	music.artist.genre
+what tv show did joey lawrence play on [m.01pr9kj]	tv.tv_actor.starring_roles|tv.regular_tv_appearance.series
+what timezone is denver co [m.02cl1]	location.location.time_zones
+what character did brian austin green play on 90210 [m.0n2bh]	tv.tv_program.regular_cast|tv.regular_tv_appearance.character
+where does jackie french live [m.0c9xl9]	people.person.place_of_birth
+what form of government was practiced in sparta [m.09472]	location.country.form_of_government
+when did the colorado rockies go to the world series [m.0fjp3]	time.recurring_event.instances
+what college did matt lauer attend [m.049_zz]	people.person.education|education.education.institution
+where to go in london england [m.04jpl]	travel.travel_destination.tourist_attractions
+what school did joan miro attend [m.0g_6k]	people.person.education|education.education.institution
+who was vincent van gogh inspired by [m.07_m2]	influence.influence_node.influenced_by
+when did the new york knicks win a championship [m.0jm3v]	sports.sports_team.championships
+where is jack daniels factory [m.021zmy]	distilled_spirits.distillery.region
+what language do the speak in pakistan [m.05sb1]	location.country.official_language
+where is santa clara university [m.027xx3]	location.location.containedby|organization.organization.headquarters|location.mailing_address.citytown|organization.organization.headquarters|location.mailing_address.state_province_region
+where did timothy mcveigh go to prison [m.07rp8]	base.prison.prisoner.imprisoned|base.prison.imprisonment.prison
+what sea does the yangtze river flow into [m.01y4t]	geography.river.mouth
+who miley cyrus engaged to [m.0bdxs5]	celebrities.celebrity.sexual_relationships|celebrities.romantic_relationship.celebrity
+what kind of money should i take to jamaica [m.03_r3]	location.country.currency_used
+who is robert downey jr wife [m.016z2j]	people.person.spouse_s|people.marriage.spouse
+where do the ny rangers play [m.0hmtk]	sports.sports_team.arena_stadium
+where is jefferson davis buried [m.043q0]	people.deceased_person.place_of_burial
+when will oscar pistorius compete [m.0f1lfn]	sports.pro_athlete.sports_played_professionally|sports.pro_sports_played.sport
+what years have the dallas cowboys won the superbowl [m.02896]	sports.sports_team.championships
+what awards has louis sachar won [m.01bq8d]	award.award_winner.awards_won|award.award_honor.award
+who are the current senators from missouri [m.04ych]	government.political_district.representatives|government.government_position_held.office_holder
+who was the president after jfk died [m.0d3k14]	government.us_president.vice_president
+what is the best currency to take to egypt 2013 [m.02k54]	location.country.currency_used
+what planes does the navy have [m.07wg3]	aviation.aircraft_owner.aircraft_fleet_composition|aviation.aircraft_ownership_count.aircraft_model
+where did benjamin franklin died [m.019fz]	people.deceased_person.place_of_death
+what is the local language of israel [m.03spz]	location.country.languages_spoken
+what city and state was the air force academy established [m.0k9wp]	organization.organization.headquarters|location.mailing_address.citytown
+what 's the national sport of puerto rico [m.05r7t]	sports.sports_team_location.teams
+what religion are people in russia [m.06bnz]	location.statistical_region.religions|location.religion_percentage.religion
+what did shawnee smith play in [m.06t3nj]	film.actor.film|film.performance.film
+what countries did queen victoria reign over [m.0cw10]	government.politician.government_positions_held|government.government_position_held.jurisdiction_of_office
+where did dr seuss go to school [m.02g3w]	people.person.education|education.education.institution
+what team does luis suarez play for [m.026f4lr]	sports.pro_athlete.teams|sports.sports_team_roster.team
+what are dollars called in spain [m.06mkj]	location.country.currency_used
+who plays meg in family guy [m.035szd]	tv.tv_character.appeared_in_tv_program|tv.regular_tv_appearance.actor
+what high school did tim allen go to [m.019vgs]	people.person.education|education.education.institution
+where does asiana airlines fly to [m.01wykn]	aviation.airline.airports_served|aviation.airline_airport_presence.airport
+what movie did angelina jolie direct [m.0f4vbz]	film.director.film
+where did martin luther king got shot [m.051cc]	people.deceased_person.place_of_death
+where to visit near bangkok [m.0fn2g]	travel.travel_destination.tourist_attractions
+what year did tut became king [m.07hcc]	base.ancientegypt.pharaoh.reign|measurement_unit.time_interval.start
+who is the current president of the dominican republic in 2010 [m.027rn]	government.governmental_jurisdiction.governing_officials|government.government_position_held.office_holder
+who has been married to julia roberts [m.046zh]	people.person.spouse_s|people.marriage.spouse
+where do baltimore ravens play [m.01ct6]	sports.sports_team.arena_stadium
+who does brandon dubinsky play for [m.02863hf]	sports.pro_athlete.teams|sports.sports_team_roster.team
