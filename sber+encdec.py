@@ -11,7 +11,9 @@ from Dataset import MyData
 from sentence_transformers import SentenceTransformer
 from Models import *
 
-data = pd.read_csv('wqsp_icc 2/pruning_train.txt',delimiter='\t',names=['QA','TAG'])
+#data = pd.read_csv('wqsp_icc 2/pruning_train.txt',delimiter='\t',names=['QA','TAG'])
+data  = pd.read_csv('data/all_train.csv')
+
 print('DATA LENGTH ',len(data))
 data["QA"] = data.QA.apply(lambda w: preprocess_sentence(w))
 data["TAG"] = data.TAG.apply(lambda w: w.replace('|',' '))
@@ -19,7 +21,7 @@ data["TAG"] = data.TAG.apply(lambda w: '<start> ' + w + ' <end>')
 
 ### Encode sentences
 sbert = SentenceTransformer('paraphrase-MiniLM-L6-v2')
-data["QA"]  = np.load('dataset2_emd.npy',allow_pickle=True)
+data["QA"]  = np.load('embeddings.npy',allow_pickle=True)
 
 
 ### Encode only targets
@@ -104,7 +106,8 @@ test_sentence = [sbert.encode(test_sentence)]
 ret = generate_sentence2(encoder, decoder, torch.tensor(test_sentence), device, targ_lang, max_length=max_length_tar)
 print(ret)
 
-data_test = pd.read_csv('wqsp_icc 2/pruning_test.txt',delimiter='\t',names=['QA','TAG']).dropna()
+data_test = pd.read_csv('all_test.csv').dropna().sample(12000)
+print(len(data_test))
 tags_pred = predict_sentences(data_test['QA'].values,sbert,encoder,decoder,max_length_tar,targ_lang, device,method=2)
 tags_true = [sentence.replace('|',' ').split(' ') for sentence in data_test['TAG']]
 tags_original = tags_pred.copy()
@@ -119,4 +122,4 @@ print(tags_pred_processed.shape, tags_true_processed.shape)
 
 results = pd.DataFrame(np.array([data_test.QA.values, tags_true_processed, tags_pred_processed]).transpose(),
                        columns=['QA', 'Original', 'Predicted'])
-results.to_csv('results_sbert_dataset2_meth2.csv')
+results.to_csv('results_sbert_meth2.csv')

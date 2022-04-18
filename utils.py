@@ -120,5 +120,5 @@ def calc_score(path):
 
 
 
-#h = calc_score('results_sbert_dataset2_meth2.csv')
-#print(h)
+h = calc_score('results_sbert_meth2.csv')
+print(h)
